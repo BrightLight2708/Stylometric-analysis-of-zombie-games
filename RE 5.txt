@@ -1,0 +1,4183 @@
+RESIDENT EVIL 5
+
+====Chapter 1-1: Civilian Checkpoint====
+
+{CUTSCENE #01 -- Welcome to Africa}
+
+[Game opens with BIRD LADY pacing in a dark room in front a kneeling man. 
+This scene cuts back and forth with another of two jeeps driving along a road.
+The man, kneeling, suddenly grabs hold of BIRD LADY's hand. He is in great 
+pain. His eyes slowly turn black. The scene cuts to the jeeps again, which have
+now stopped. Several soldiers get out of the jeeps.]
+
+SOLDIER: Move! Move!
+
+[Scene cuts to BIRD LADY shrugging off the man's grasp. She turns away as 
+numerous black leeches emerge from the man's body. Scene cuts back to the 
+soldiers. One of the soldiers, CAPTAIN DECHANT, speaks through a 
+walkie-talkie.]
+
+CAPTAIN DECHANT: Captain DeChant here. We've secured the underground route 
+to the coordinates. 
+
+[Two soldiers pull a large door shut. Scene changes to that of a lone 
+jeep travelling down a dusty road in the African savanna. The camera comes 
+closer, and we see that CHRIS REDFIELD is driving it.]
+
+CHRIS REDFIELD (voiceover): I should have seen it coming. It didn't take long 
+after the fall of the Umbrella Corporation for their bio-weapons to end up 
+in the hands of terrorists. 
+
+[The jeep makes its way to a shanty town, where we see several shots of the 
+village as the jeep drives through.]
+
+CHRIS (voiceover): A new era of bio-terrorism descended upon vulnerable 
+countries, shifting the balance of power throughout the region. People in the
+destabilized areas soon feared another incident like Raccoon City was 
+inevitable. As panic spread, governments of the world turned to the Global 
+Pharmaceutical Consortium, which formed the anti-terrorism unit BSAA. 
+Operatives of the BSAA were sent to infiltrate and neutralize bioweapon 
+hotspots, restoring safety and stability to various regions around the globe. 
+
+[CHRIS has gotten out of his car and is getting something from the back 
+seat when an African woman, SHEVA ALOMAR, walks up to him.]
+
+SHEVA ALOMAR: Welcome to Africa. My name is Sheva Alomar.
+
+CHRIS: Chris Redfield.
+
+SHEVA: Your reputation proceeds you, Mr. Redfield. It's an honor.
+
+CHRIS: Just Chris, thanks. So will you be accompanying me to the destination?
+
+SHEVA: Yes. Tensions are running high ever since the change in government.
+
+CHRIS: I'll bet. Intel says it's a haven for terrorists now.
+
+SHEVA: And they're not going to be happy to see an American, BSAA or not. 
+That's why I'm your partner; help put them at ease.
+
+CHRIS: I'm sure you'll do just fine.
+
+[SHEVA turns around and walks away.]
+
+CHRIS (talks to himself): Partner...
+
+[In a short flashback, we see the grave of his former partner, JILL VALENTINE,
+who died two years ago. SHEVA turns around and notices that CHRIS is looking 
+rather dazed.]
+
+SHEVA: You okay?
+
+CHRIS: Yeah, sorry...It's nothing. Let's go.
+
+[SHEVA and CHRIS walk to the village gates.]
+
+CHRIS (voiceover): Casualties continue to mount over the long years I've 
+struggled. More and more I find myself wondering if it's all worth fighting 
+for. Maybe one day I'll find out.
+
+[As the two approach the gate, a GUARD comes by to block the way.]
+
+GUARD: Hey! Hey! [Speaks African language]
+
+[The two stop in front of him, and suddenly the GUARD runs his hands 
+all over SHEVA's body. She pushes his groping hands away.]
+
+SHEVA: You don't have to get touchy!
+
+[SHEVA hands the guard some money, who lets them pass.]
+
+SHEVA (to Chris): Let's go.
+
+CHRIS (voiceover): There is one thing I do know. I have a job to do, and I'm 
+going to see it through.
+
+{GAMEPLAY}
+
+KIRK MATHISON (over radio): This is Kirk. Chris, Sheva, can you read me?
+
+CHRIS: Chris here. Coming in, loud and clear, Kirk.
+
+SHEVA: Yes, we read you.
+
+KIRK: There's a black market weapons deal going down in Kijuju. That's where 
+Irving will be. Alpha Team has already infiltrated the area and you will be 
+going in as backup. Rendezvous with your contact at the butcher's shop. You 
+can gear up and get briefed on the mission there. Watch your backs!
+
+CHRIS: Roger that.
+
+SHEVA: Copy. OVer and out.
+
+[A vicious beating is going on as the dialogue goes on. The villagers stop as 
+CHRIS and SHEVA come closer.]
+
+{CUTSCENE #02 -- Magic Act}
+
+[CHRIS and SHEVA make their way to a decrepit building called the "Corner 
+Pyany Butchery." In the distance a radio babbles on frantically. CHRIS and 
+SHEVA realize that the village has suddenly been deserted.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA make their way to the butchery. They open the door to see 
+their contact, REYNARD FISHER, inside.]
+
+{CUTSCENE #03 -- The Butcher, Part 1}
+
+FISHER: Good. You're both here. Come.
+
+[He opens a door to the slaughterhouse.]
+
+FISHER: You two. This way. It may be because of the new government, but people
+around here are a little on edge. You should do what you came to do and go 
+home.
+
+CHRIS: Yeah, they really roll out the red carpet for us Americans.
+
+FISHER: I have your weapons for you here. Check them.
+
+[He motions towards a box.]
+
+{GAMEPLAY}
+
+FISHER: Grab your weapons. The operation's already started.
+
+[CHRIS opens the box to find a Beretta M92F.]
+
+{CUTSCENE #04 -- The Butcher, Part 2}
+
+[The two have just finished gearing up. SHEVA finishes field-stripping 
+her pistol, then turns to talk to Fisher.]
+
+SHEVA: Destination coordinates?
+
+FISHER: Town square up ahead. Go through there, Alpha Team's waiting at the 
+deal location.
+
+SHEVA: Good.
+
+FISHER: What do you know about Uroboros?
+
+CHRIS: Mostly just rumors...something about a doomsday project.
+
+FISHER: Doomsday sounds about right, and apparently it is no rumor.
+
+SHEVA: You're kidding, right?
+
+FISHER: You must find a man named Irving, he's our only lead.
+
+[He turns around and walks away, but then stops to give some advice before 
+leaving the butchery.]
+
+FISHER: And be careful out there.
+
+{GAMEPLAY}
+
+[CHRIS and Sheva explore the butchery together.]
+
+CHRIS: Remember, we're a team. Whatever happens, we stick together.
+
+SHEVA: Don't worry, I may not be as big as you, but I can still hold my own.
+
+{CUTSCENE}
+
+[A dead cow lies in the sun, a stake stuck through its body. Several monstrous
+crows are around the body.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA note that the cow is still warm. Heading into the room near 
+the carcass, they see several skulls piled on a shelf. Opening the door to the 
+next room, they see another mutilated animal carcass. They make their way to a 
+green door.]
+
+{CUTSCENE #05 -- First Encounter}
+
+[CHRIS and SHEVA open the door, pistols ready. They see two men holding down 
+another man. One of the assailants holds a squirming ball of tentacles, a 
+Plaga parasite. Pulling open the man's jaw, he forces the thing into his 
+mouth.]
+
+CHRIS: Freeze!
+
+[The assailant retracts an odd mandible back into his mouth, looking at the 
+BSAA agents and then fleeing the scene with his accomplice. The attacked man 
+gets on his knees, vomiting.]
+
+CHRIS: Are you okay?
+
+[CHRIS puts an arm on the man's shoulder but is violently repulsed. The man 
+clutches at his throat and face, then stares up to the sky, his eyes filling 
+with blood. Slowly he gets to his feet, wobbly. Suddenly, he turns around and 
+runs towards the agents, intent on attack.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA kill the Majini.]
+
+SHEVA: What the hell just happened?
+
+CHRIS: They didn't act like any zombies I've ever seen.
+
+[CHRIS and SHEVA jump out of a window onto the ground below.]
+
+{CUTSCENE}
+
+[All of a sudden, Majini come out of nowhere, climbing over the chain-link 
+fences, bent on attack.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA run down an alley and into a building.]
+
+{CUTSCENE}
+
+[CHRIS slamS the door shut and bars it.]
+
+{GAMEPLAY}
+
+CHRIS: Kirk, come in. The locals were hostile and we had to use force. We 
+don't have any contingency plans for this situation, do we, Kirk?
+
+KIRK: Roger on the locals. But your orders still stand.
+
+SHEVA: What does that mean? Was HG expecting this?
+
+[CHRIS and SHEVA cooperate to kick down a metal door. This building has a 
+cutting board with a large brain on it, among other scenes of carnage. They 
+go through an underground passage way, heading to the objective point.]
+
+{CUTSCENE #06 -- Hospitality}
+
+[CHRIS and SHEVA enter the building, pistols raised, to find no one inside. 
+Looking out the window though, they see a large angry mob being stirred up by 
+a sunglasses-wearing man carrying a megaphone. To the surprise of CHRIS and 
+SHEVA, FISHER is there, being held down by several majini.]
+
+FISHER: You don't know what you're talking about! You can all go to hell!
+
+SHEVA: Wait a minute! That's the-- 
+
+[Chris stops her from stepping forward to help. They see the EXECUTIONER, 
+a giant man who wears a burlap sack over his head and wields an axe the size 
+of a small car. The EXECUTIONER chops off FISHER's head, much to the delight 
+of the Majini mob. As the Majini with the megaphone turns his head to face the 
+crowd, he catches sight of CHRIS and SHEVA through the window and orders the 
+Majini to attack them.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA push several bookshelves to barricade the windows, but the 
+sheer number of Majini break through the bookshelves as well as the door.]
+
+CHRIS: Kirk! Come in! The locals are hostile! The gate is sealed, and we're 
+trapped. We need backup, and we need it right now!
+
+KIRK: Roger that. Just sit tight. I'm on my way!
+
+CHRIS: You here that Sheva? Help is on the way!
+
+SHEVA: Got it! I just hope he gets here quick!
+
+{CUTSCENE}
+
+[Several Majini break through the roof, to make matters worse.]
+
+{GAMEPLAY}
+
+[As the fighting continues in the building, the EXECUTIONER uses his giant axe 
+to smash a hole in the wall and join in on the fight. CHRIS and SHEVA head 
+outside to increase their chances of survival.]
+
+SHEVA: There's just no end to them!
+
+CHRIS: We have to hold out until Kirk gets here.
+
+[Fighting continues through the main street and the roofs and second floors 
+of the buildings.]
+
+KIRK: Chris, Sheva. How you holding up? I'll be there shortly, just hang in 
+there!
+
+[Fighting continues. CHRIS and SHEVA manage to defeat the EXECUTIONER.]
+
+KIRK: Sorry to keep you waiting. I'm going to take out the door. Find some 
+cover!
+
+{CUTSCENE #07 -- Guardian Angel}
+
+[A helicopter flies overhead, piloted by KIRK.]
+
+KIRK: Take cover!
+
+[CHRIS and SHEVA quickly take cover. The soldier in the helicopter readies 
+an RPG and blasts the gate open, taking down several Majini in the blast as 
+well and ending the chapter.]
+
+====Chapter 1-2: Public Assembly====
+
+{GAMEPLAY}
+
+CHRIS: Kirk, we owe you one.
+
+KIRK (over radio): You can thank me later. Chris, Sheva. It's almost time for 
+Alpha Team to go in. Hurry to the deal coordinates.
+
+CHRIS: Roger that.
+
+KIRK: I'm going up ahead. We'll meet up there. Good luck!
+
+[CHRIS and SHEVA go past the destroyed gate and open another gate to the next 
+area.]
+
+DECHANT (over radio): Mathison, Captain DeChant here! Our route is blocked! 
+Kirk! Come in!
+
+{CUTSCENE}
+
+[CHRIS and SHEVA reach a broken ladder leading to a second floor. They note 
+that two people could probably get around it.]
+
+{GAMEPLAY}
+
+[CHRIS gives SHEVA a lift onto the second floor.]
+
+{CUTSCENE}
+
+[The building is in a state of decay. It looks like it could have been a jail.]
+
+{GAMEPLAY}
+
+[SHEVA jumps down, and the two make their way down an alley, neutralizing a 
+Majini in the way.]
+
+DECHANT (over radio): We engaged the enemy! ...And what...what the...that 
+thing? ...In trouble...need backup! Shit! Help...can't see...
+
+KIRK: Captain, what is your status? Can you see the enemy?
+
+DECHANT: No, no! Wait! God damn monster! (shouts in pain)
+
+SHEVA: Alpha Team, come in! Alpha Team!
+
+CHRIS: DeChant! Do you copy!? DeChant!
+
+[CHRIS and SHEVA continue through the buildings, taking down Majini as they 
+go. They perform another assist jump to a higher level to obtain the Old 
+Building Key. As they make their way to the Old Building, they combine strength
+to kick down another metal door.]
+
+{CUTSCENE #08 -- A Cry for Help}
+
+[A terrified blond girl, ALLYSON, bursts out of a door. She grips the railing 
+of the second floor she is on, out of breath.]
+
+ALLYSON: Help! Somebody help me!
+
+[A Majini is pulling her away, tearing away her grip from the railing.]
+
+ALLYSON: Help!
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA open the Old Building with the Old Building Key. Here Chris 
+obtains the shotgun, the Ithaca M37, which is mounted on a wall.]
+
+{CUTSCENE #09 -- Damsel in Distress}
+
+[CHRIS and SHEVA run up the stairs to the building where they saw ALLYSON. 
+CHRIS rushes into the building and catches ALLYSON just as she is about to 
+faint.]
+
+CHRIS: Hey, what's wrong? (to SHEVA) Be careful. They may still be here.
+
+[ALLYSON slowly raises her head.]
+
+CHRIS: Are you okay?
+
+[She suddenly grabs on to one of his straps, and the four-tentacled mandibles 
+erupt from her mouth. Before they can bite CHRIS, SHEVA shoots ALLYSON, 
+repulsing her attack.]
+
+SHEVA: Chris!
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA shoot her, but then a centipede-type Plaga, a Cephalo, emerges
+from her head, twisting all around and trying to lash out at CHRIS and SHEVA. 
+At this time several other Majini join the fight. They manage to neutralize all
+of them.]
+
+KIRK: Mathison to HQ. We've lost contact with Alpha Team. They're under attack 
+by an unidentified hostile! Reinforcements, heat toward the deal coordinates 
+immediately!
+
+SHEVA: SHEVA here. Roger that!
+
+CHRIS: Move out!
+
+[CHRIS and SHEVA defeat some more Majini and head to the door to the next 
+area. It's dark inside this building.]
+
+{CUTSCENE}
+
+[The building is in ruins.]
+
+{GAMEPLAY}
+
+[There is debris everywhere, as if a fight had taken place here. 
+Sunlight streams through little holes in the ceiling. Bullet holes? As they 
+make their way to the second floor of a building, a man's body slumps over, 
+dead. CHRIS and SHEVA find that he is from Alpha Team. Climbing a ladder onto 
+the roof, they cooperatively kick open another steel door.]
+
+{CUTSCENE #10 -- A Piece of the Puzzle}
+
+CHRIS: What the hell happened in here?
+
+[The dead bodies of Alpha Team are in this room. One of them, DECHANT, still 
+moves, although he is mortally wounded. CHRIS runs to him.]
+
+CHRIS: Hey, who did this?
+
+DECHANT: Something attacked us...Irving...He got away...It was a setup...
+
+CHRIS: A setup...!?
+
+[DECHANT hands CHRIS a CD.]
+
+CHRIS: What is this?
+
+[Something moves past a window, startling SHEVA. She quickly turns around, 
+pistol ready.]
+
+DECHANT: It's data regarding the deal...I downloaded it from their computer...
+You got to get it to HQ...
+
+[He dies.]
+
+CHRIS: Hey...hey, hang in there!
+
+[SHEVA turns around to look at them. They realize he is dead.]
+
+SHEVA: I saw someone, but they ran away...
+
+CHRIS (into radio): Kirk, do you copy? We got the data, but Alpha Team is down.
+Irving got away.
+
+KIRK: Roger. Relay the data from the vehicle at the storage facility.
+
+CHRIS: Copy that.
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA depart from the room and head down a hallway to an elevator.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA go down the elevator.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA make their way through to a large room where a furnace is 
+visible.]
+
+{CUTSCENE}
+
+[The incinerator is up and running.]
+
+{GAMEPLAY}
+
+[They find the Furnace Key.]
+
+{CUTSCENE #11 -- Unidentified Threat}
+
+[Just as CHRIS and SHEVA are about to head to the next area, they suddenly 
+see a mass of black leeches slithering all over the ceiling. They fall to the 
+floor, piling up with each other.]
+
+SHEVA: What the hell is it?
+
+[The leeches extend large tentacles, engulfing some Alpha Team corpses lying 
+around and forming into something vaguely humanoid, the first UROBOROS BOSS.]
+
+CHRIS: I think that's what got Alpha Team!
+
+[CHRIS and SHEVA shoot at the monster with their handguns. The BOSS suddenly 
+shoots out a tentacle at them, but they manage to dodge it.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA run back to the room with the furnace. The BOSS follows them 
+in, and just as it enters the door slides down and locks. CHRIS and SHEVA 
+inflict as much damage as they can to the monster, using several explosive gas
+cylinders that are lying around. They manage to bait the monster into stepping
+into the furnace, then closing the doors and turning the furnace on.]
+
+{CUTSCENE}
+
+[The BOSS is vanquished. It collapses and then melts away into nothing. The 
+door unlocks and slides up.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA get out of the room, heading into the area they meant to go 
+to and boarding an elevator.]
+
+{CUTSCENE #12 -- The Storage Facility}
+
+[The elevator goes up, stopping at the abandoned storage facility. We see a 
+security camera is capturing CHRIS and SHEVA in this facility. Someone is 
+watching them on a laptop with the Tricell logo on it. It turns out to be 
+RICARDO IRVING, who is in a red van with the BIRD LADY. Meanwhile, CHRIS and 
+SHEVA are at the jeeps we saw earlier in the game.]
+
+CHRIS: I got it.
+
+SHEVA: What was that thing?
+
+[CHRIS opens up a laptop, transferring the data in the disk DECHANT gave him.]
+
+CHRIS: A B.O.W. that scum bag Irving lift behind to set us up. 
+(typing on the laptop) Considering what it did to Alpha Team...I think we're 
+lucky to still be breathing.
+
+SHEVA: If only we could have gotten there sooner.
+
+CHRIS: If we had, we'd probably be dead too. (into radio) Chris to HQ, do you 
+copy?
+
+HQ (radio): This is HQ. Excellent work out there. We'll analyze the data 
+immediately.
+
+CHRIS: This whole town's gone to hell. The people here they're acting like 
+those Ganados detailed in the Kennedy Report, and aside from that, there's 
+something new, something we've never encountered before.
+
+SHEVA: Our transportation has been taken out too. Requesting a mission update.
+
+HQ: The mission stands. Capturing Irving is your top priority. We believe he 
+may have fled to the mines on the other side of the train station.
+
+CHRIS: Wait, we're the only two left, you want us to go in there alone!?
+
+HQ: Delta Team have been dispatched and are on their way. They will assist 
+you in locating and apprehending Irving.
+
+SHEVA: But wait, we can't...
+
+HQ: I repeat, your mission stands. We can't afford to let him get away. 
+Proceed to the mines beyond the station. Over and out.
+
+SHEVA: This is insane!
+
+CHRIS: You ever get the feeling you're expendable?
+
+[They look at each other with mixed frustration and sympathy as the chapter 
+ends.]
+
+====Chapter 2-1: Storage Facility====
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA find an MP5 in the storage facility. They head outside, 
+moving through a maze of shipping containers and taking out mines and Majini 
+they encounter. While passing through, they also meet packs of dogs that have 
+been infected by Plaga (Adjule), as well as larger, more muscular Majini. They 
+cooperate to slide a large gate open to move on to a ruined bridge.]
+
+{CUTSCENE}
+
+[A large truck suddenly skids onto the bridge, loudly sounding its horn and
+threatening to run the two over.]
+
+{GAMEPLAY}
+
+[By shooting explosive barrels, CHRIS and SHEVA manage to stop the truck and
+eliminate a horde of Majini. Going down into the sewers, the two are ambushed
+by packs of Adjule, but manage to get back outside. Sprawled out on the wet 
+ground are several corpses.]
+
+SHEVA: My God...
+
+[One of the dying spasms in his death throes.]
+
+CHRIS: Something's coming! Watch out!
+
+[All of a sudden, several small flying monsters, the Kipepeo, emerge from the 
+corpses, flying over to attack CHRIS and SHEVA. After destroying the Kipepeo,
+they break down a locked door and move to the village bordering the river.
+It is deserted. Inside one of the houses they find a corpse hanging from the 
+ceiling. They retreive the Port Key from this corpse.]
+
+{CUTSCENE}
+
+[A horde of Majini jump from the rooftops with murderous intent.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA take on the horde of Majini. Using the Port Key, they unlock 
+a door leading to the wooden docks and head onto a ship.]
+
+{CUTSCENE}
+
+[A helicopter piloted by KIRK appears in the sky.]
+
+KIRK (over radio): You two OK?
+
+{GAMEPLAY}
+
+KIRK: HQ sent me in to provide you support. It's gonnet get hot down there,
+so watch out!
+
+SHEVA: Roger. Thanks, Kirk.
+
+CHRIS: Wow, I didn't think HQ actually cared.
+
+[The timing is perfect as several Majini rush in. Thankfully the helicopter
+provides rocket support. It hovers overhead as they enter a building where they
+find the S75, a bolt-action rifle.]
+
+KIRK: Stay frosty down there. You're almost at the station.
+
+[CHRIS and SHEVA move into the next area, a shanty town. One of the buildings
+they go into has bloodstains and skulls in it.]
+
+{CUTSCENE}
+
+[The sky is dotted with Kipepeo as Kirk's helicopter is going down, heavily
+smoking.]
+
+KIRK: What the fuck are those!? Mathison to HQ, I'm under attack by flying
+B.O.W.'s! 
+
+{GAMEPLAY}
+
+KIRK: I'm losing engine power! Oh shit! I'm out of control! I'm going down!
+Mayday! Mayday!
+
+CHRIS: Kirk! What's going on!? Come in! Kirk!
+
+[CHRIS and SHEVA fend off some Kipepeo coming to attack them. SHEVA receives a
+boost from CHRIS to a higher level of a heavily damaged building. In the 
+radio Kirk is yelling in pain and fear before his radio gets cut off with 
+a sudden burst of static.]
+
+HQ (over radio): This is HQ. The helicopter has been downed. All nearby units
+proceed to the crash site. Repeat, all nearby units proceed to the crash site.
+
+[From her rooftop advantage, SHEVA dispatches a few enemies in the nearby 
+apartment complex and provides CHRIS some covering fire for Majini attacking 
+him on the ground. Entering the complex the two find that the front doors to 
+the other side are locked from the outside. CHRIS helps SHEVA jump to an
+adjacent apartment complex to unlock the doors. The place is full of Majini,
+but SHEVA manages to make it to the bottom with some covering fire from CHRIS.
+After dispatching a group of Majini outside, they head up some stairs to the
+next area.]
+
+{CUTSCENE -- The Chainsaw Majini}
+
+[As CHRIS and SHEVA head up the stairs to the gate leading to the next area,
+a Majini wearing a burlap sack over his head with a chainsaw arrives. Revving 
+it up, he slices through the bar locking the gate, then kicks it open.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA now battle the CHAINSAW MAJINI and a horde of other regular
+Majini. After a long battle throughout the shanty town complex, the CHAINSAW
+MAJINI is vanquished, and the two pick up the Guard's Key from his body.
+The CHAINSAW MAJINI then revives, swinging his chainsaw wildly and laughing
+maniacally. Keeping their distance, CHRIS and SHEVA take him down, then move
+down the alley they had meant to go. They use the Guard's Key to open a door
+in the way as they continue to go through the shanty town. Past some sliding
+doors they can see the smoke from the crash site.]
+
+{CUTSCENE #14 -- To the Crash Site!}
+
+[CHRIS and SHEVA open the doors and run towards the crash site to find the
+chopper ablaze.]
+
+SHEVA (turns her head): Oh my God.
+
+[KIRK is dead, chained to a fiery pyramid of tires. A flock of crows circle
+ahead menacingly. We hear the sound of a motor approaching as CHRIS and SHEVA
+look around desperately. Suddenly a motorcycle-driving Majini jumps over a 
+wall, swinging a large chain around. He lashes it at SHEVA.]
+
+CHRIS: Look out!
+
+[CHRIS tackles SHEVA away from the chain, but it has hooked around his ankle
+and he is dragged about by the motorcycle. Aiming carefully, Sheva shoots the
+chain, setting CHRIS free. He rolls to a stop and struggles to his feet,
+winded. The Majini skids to a stop, turning around. The mandibles pop out of
+his mouth with an inhuman roar. More Majini jump over the walls, circling
+the two. Finally two motorcycles rev forth towards CHRIS and SHEVA, who manage
+to dodge a sticky fate. As they go around to run them over, one of the Majini
+receives a headshot. A sniper is on the roof, taking out the Majini. One of the
+bikers runs over a corpse, catapulting and impaling him onto a pole, while
+another has his engine shot underneath him, killing him in an explosion. Delta 
+Team arrives at the scene, and they head indoors.]
+
+{CUTSCENE #15 -- Rendezvous}
+
+CHRIS REDFIELD: Man, am I glad to see you guys.
+
+CAPTAIN JOSH STONE: Delta Team, captain Stone.
+
+CHRIS: Chris Redfield.
+
+JOSH: Sheva.
+
+SHEVA: Thanks Josh. I owe you one.
+
+CHRIS: You guys know each other.
+
+SHEVA: I trained under Josh. He taught me everything I knew.
+
+JOSH: Sheva became the little sister of the team. Now Sheva, you must continue 
+your search for Irving. According to the data we received fromthe hard drive, 
+we believe he has moved onto the mining area. There's moreinfo inside. (hands 
+Chris a flash drive) We'll follow after taking care of business here. And keep 
+your radio handy just in case.
+
+SHEVA: Thanks Josh.
+
+[Delta Team leaves. Chris pulls out his PDA and plugs the flash drive in.
+Pressing a few buttons, he finds a picture of his old partner JILL.]
+
+CHRIS: Jill...
+
+[CHRIS has a fleeting flashback of their encounter with Wesker, the encounter 
+in which Jill lost her life.]
+
+SHEVA: Chris, are you alright?
+
+CHRIS: This picture it's...Forget it, it's nothing. Let's move out.
+
+====chapter 2-2: Train Station====
+
+{GAMEPLAY}
+
+CHRIS: Sheva, do you know where the mines are?
+
+SHEVA: Past the station. Not too far from here. Follow me. 
+
+[The two move out through the train station, where they are assaulted by packs
+of Adjule. They bypass a few roadblocks to the mine by climbing onto the tops
+of the rail cars and entering an elevator.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA descend down the elevator.]
+
+{GAMEPLAY}
+
+[The mines appear to be very dark. There is a lantern lying around, but it is
+so big that the person carrying it is basically cannot wield their weapon.]
+
+SHEVA: I'll take the lantern. Stay close to me.
+
+[They walk through the mines until they reach a crossroads. The right fork 
+leads to a dead end, so they continue down the left fork. As they reach a 
+section with knee-deep water, they are ambushed by a group of Majini, which
+CHRIS manages to neutralize. As they reach a lit portion of the
+tunnel, they are ambushed by another group of Majini. They finally manage to
+reach the light at the end of the tunnel, which shines upon a closed gate and 
+a crank to operate it.]
+
+SHEVA: I'll open it. You go ahead.
+
+[SHEVA opens the gate, letting CHRIS pass through to a large chamber and
+operate the crank there to open the door. While he does this, SHEVA fends off
+the Majini come to attack her. After they rejoin each other in the chamber,
+more Majini come to join the fight. The two manage to defeat the horde, then
+climb up to a higher level to proceed.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA go up an elevator.]
+
+{GAMEPLAY}
+
+[The two are now just outside a building. The door is on the second floor,
+accessible only by a staircase.]
+
+{CUTSCENE #16 -- Irving's Great Escape}
+
+[CHRIS and SHEVA climb up the staircase, then bust through the door. IRVING
+is inside, and quickly hides whatever he was looking at and draws a pistol.]
+
+CHRIS: Freeze!
+
+IRVING: Oh shit!
+
+[CHRIS and SHEVA point their pistols at him and vice versa.]
+
+SHEVA: So you must be Irving?
+
+IRVING: Wow, perceptive, aren't 'cha?
+
+SHEVA: You think this is a joke? You're just like all the other pieces of scum
+terrorists.
+
+IRVING: Oh I'm not like them! I'm a businessman with standards.
+
+CHRIS: Drop the weapon.
+
+IRVING: Or...how 'bout you drop yours.
+
+[As they point their weapons at each other, a smoke grenade lands through the
+window into the room. CHRIS and SHEVA dive for the floor to avoid any trap. 
+Just then, BIRD LADY jumps through the window, grabbing IRVING.]
+
+BIRD LADY: Hurry!
+
+IRVING: Suckers!
+
+[BIRD LADY hops out the window, still holding on to IRVING.]
+
+CHRIS: Shit!
+
+[They run over to the window, looking out, but there is no one to be seen.]
+
+CHRIS: Great. 
+
+SHEVA: Looks like Irving has a partner.
+
+CHRIS: There must be something here he didn't want us to see.
+
+[He heads towards the desk and flips open a folder.]
+
+SHEVA: What is it?
+
+CHRIS: Look at this.
+
+[He shows her a map where Irving has marked the oil fields in the marshlands
+in red pen.]
+
+SHEVA: The oil field...that's in the marshlands!
+
+{GAMEPLAY}
+
+CHRIS (in radio): Delta Team, Chris here. We located Irving, but he got
+away.
+
+JOSH (in radio): Do you know where he went? 
+
+CHRIS: We think he's heading for an oil field in the marshlands.
+
+JOSH: OK, I'm sending someone after him now. I need you two to head back this
+way.
+
+CHRIS: Roger that.
+
+[Inside one of the lockers in the room a Dragunov SVD can be found. Several
+Majini are outside, one of whom occupies a machine gun turret. After taking
+them down, they climb up a long ladder to a higher level, taking down more 
+Majini and jumping down onto a winding road.]
+
+{CUTSCENE}
+
+[The road ahead is long and winding.]
+
+{GAMEPLAY}
+
+[Alongside the road there's a broken ladder leading up to a road on a higher
+level.]
+
+SHEVA: I'll cover you from up there! Give me a hand!
+
+[CHRIS gives SHEVA a boost, while he takes the long way around. Some Majini
+are tossing dynamite to further complicate matters. They manage to fight their
+way up. After neutralizing all foes, they find that a large dumpster is
+blocking the way. CHRIS tries to push it away, but it is too heavy for one 
+person to push away.]
+
+SHEVA: It's too heavy, let me give you a hand.
+
+{CUTSCENE}
+
+[The dumpster falls off the cliff, clearing the way.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA keep heading forward.]
+
+{CUTSCENE #17 -- Terror from Above}
+
+[As CHRIS and SHEVA run forward, they disturb a colony of bats, which surge
+into the sky. The two stop, looking up to see a ton of bats flying away in the
+sky. A truck horn sounds, and rounding the corner is a truck. Unfortunately,
+it takes the curve too quickly, crashing into the wall and turning on its side.
+CHRIS and SHEVA approach the truck, which appears to be heavily armored. The
+driver is dead. Suddenly the door to the back of the truck slides open, 
+revealing a large, bat-like monster, POPOKARIMU. It climbs onto the back of
+the truck, revealing a large, fat tail similar to that of a Kipepeo's and its
+four wings.]
+
+CHRIS: What is that!?
+
+[POPOKARIMU lets out a roar, then takes to the sky, fluttering above CHRIS and
+SHEVA rather clumsily.]
+
+{GAMEPLAY}
+
+SHEVA: I don't know what that thing is, but I'm sure Irving's responsible!
+
+[Flight does not seem to be POPOKARIMU's strength, so it lands and starts
+chasing after CHRIS and SHEVA, tail raised up like a scorpion's.]
+
+SHEVA: We should trap it between us! I'll take the rear!
+
+[CHRIS runs as bait, while SHEVA slips behind and shoots POPOKARIMU in a very
+pink, fleshy region behind its tail. It seems to be a rather sensitive spot.]
+
+SHEVA: This thing won't stop moving! What can we do to slow it down!
+
+[Thankfully, there are several proximity mines laying around. The two manage
+to lure it into running over the mine. The explosion downs the POPOKARIMU, and
+CHRIS and SHEVA pour fire into its weak spot. When it gets up, they repeat this
+process a few times, eventually mortally wounding it.]
+
+{CUTSCENE #18 -- Roll Out!}
+
+[POPOKARIMU lets out a deathly scream, then suddenly propels itself into the
+air with its wings. It wings around to dive at CHRIS and SHEVA, but CHRIS
+quickly fires three times at the monster with his pistol, finally killing it.
+POPOKARIMU crash-lands into the truck, falling to its doom. The truck explodes
+as it hits the ground, engulfing the falling POPOKARIMU. CHRIS and SHEVA look
+over the cliffside as a BSAA jeep driven by DAVE JOHNSON rounds the corner.]
+
+DAVE JOHNSON: Chris! Sheva! Get in!
+
+[The jeep turns to a stop, and CHRIS and SHEVA hop in the back. The jeep drives
+off, ending the chapter.]
+
+====Chapter 2-3: Savannah====
+
+{CUTSCENE}
+
+DAVE: I heard about Irving. Tough break.
+
+SHEVA: Yes, but there will be other opportunities. (into radio) 
+Sheva to headquarters.
+
+HQ: This is headquarters. What's your situation?
+
+SHEVA: There's a high probability that Irving is on his way to an oil field in
+the marshlands. we're re-joining Delta Team and heading there now.
+
+HQ: Understood.
+
+[In the distance, biker Majini can be seen, ready to give chase to the jeep.]
+
+CHRIS: Ah, we got company!
+
+SHEVA: They don't let up, do they?
+
+{GAMEPLAY}
+
+[CHRIS takes the higher machine gun turret (which appears to be a PKM), 
+while SHEVA mans the gatling gun on bottom. They take down motorcycles pursuing
+them.]
+
+CHRIS: Do what you got to do to stop 'em! But don't get too trigger happy or
+the guns'll overheat! If that happens, we'll be an easy target till they cool 
+down!
+
+DAVE: We got some sharp curves up ahead! Hold on tight!
+
+[The jeep practically drifts along the beaten trap as CHRIS and SHEVA brace
+themselves. After straightening up, CHRIS and SHEVA continue to hold off
+motorcycles and trucks full of Majini coming towards them.]
+
+JOSH (through radio): This is Captain Stone, Delta Team. I just received word
+from HQ. Based on the data you received from that hard drive, most of the 
+townspeople have been infected by the parasites known as Las Plagas. The data
+refers to the infected as Majini.
+
+CHRIS: What does this have to do with Uroboros?
+
+JOSH: You got me. They didn't say.
+
+CHRIS: Looks like the only way we're getting answers is from Irving.
+
+DAVE: It's gonna get bumpy! Hang on!
+
+[The jeep makes a small jump off a large bump, as CHRIS and SHEVA brace
+themselves. After some distance more curves come up again.]
+
+DAVE: We got some sharp curves up ahead! Hold on tight!
+
+[Once again the car skids along the curves.]
+
+JOSH (through radio): We're under attack! There are too many of them to handle!
+
+HQ: Reinforcements are on route. Hold your position until they arrive. I
+repeat, hold your position!
+
+DAVE: Let's pick up the pace.
+
+[As they speed along, the scenery starts to become noticeably lusher and
+greener, until they skid around to a stop to see a large roadblock with trucks
+and Majini.]
+
+DAVE: What the...! There's no getting past that truck unless you two do
+something about it!
+
+[With the help of some explosive barrels, CHRIS and SHEVA manage to take out
+the roadblock and blow up the truck blocking the way.]
+
+DAVE: Nice!
+
+[They are starting to enter the city limits, denoted by the bridge they are 
+crossing. As they turn, they notice a large truck right next to them, trying to
+cut them off.]
+
+DAVE: He's trying to ram us into the river! Do something!
+
+[CHRIS and SHEVA pour fire into the truck, blowing it up. The sun is setting.]
+
+{CUTSCENE #19 -- Shaking Off the Majini}
+
+[The jeep races down the road, pursued by a pack of bikers...straight towards
+a bridge broken in the middle.]
+
+DAVE: Hang on!
+
+[CHRIS looks back to see the broken bridge. DAVE puts his foot on the gas, 
+gaining speed and performing a leap to the other side. The Majini, not
+expecting a move like that, skid to a stop, while one unlucky guy and his bike
+fall into the river.] 
+
+{CUTSCENE #20 -- Grand Resurgence}
+
+[The jeep has made its way into the village and rides past the dead bodies of 
+Delta Team.]
+
+SHEVA: What could've done this...
+
+[The jeep stops, and CHRIS, SHEVA, and DAVE get out. As they rush to check for
+signs of life, the ground starts to rumble. Suddenly, the jeep goes flying
+through the air.]
+
+CHRIS: Look out!
+
+[DAVE looks up as a shadow approaches to see a gigantic B.O.W., NDESU, standing
+over him. The last thing he sees is the monster's foot crushing him into the
+ground. The NDESU wears several spiky bracelets and a loincloth, with a BSAA
+member hanging from his waist. He lets out a mighty roar. CHRIS and SHEVA
+take cover behind the overturned jeep, but NDESU notices them, picking up the
+jeep.]
+
+CHRIS: Oh shit!
+
+[They fire at NDESU with their pistols, but there is no effect. As he rears up
+to pound the ground, CHRIS and SHEVA dodge and run for their lives, vaulting
+over debris.]
+
+CHRIS: Go! Go! Go! Get to the truck!
+
+[CHRIS turns around and fires at NDESU to buy some time, dodging away from 
+another ground smash just in time. They both manage to make it to the jeep,
+hurriedly manning the machine guns.]
+
+SHEVA: Take this, you ugly bastard!
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA keep steady fire on NDESU, eventually damaging it enough for
+its Plaga parasites to pop out of its shoulders.]
+
+{CUTSCENE}
+
+SHEVA: Look! There's something coming out of it! We should try aiming at those!
+
+{GAMEPLAY}
+
+[They continue to pour a barrage of fire on NDESU. Some fiery crossbow-wielding
+Majini decide to join the fight but are quickly put down.]
+
+{CUTSCENE}
+
+[NDESU plunges his arms into the ground, pulling a massive boulder out of the
+ground.]
+
+{GAMEPLAY}
+
+[They manage to prevent the rock from reaching them.]
+
+{CUTSCENE}
+
+[NDESU grabs his head in pain, falling on his knees. Suddenly a gigantic Plaga
+pops out of his back.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA concentrate fire on the main Plaga, until it retracts back
+into NDESU's body. NDESU attempts a few attacks.]
+
+{CUTSCENE}
+
+[NDESU uproots a telephone pole, intending to use it as a weapon.]
+
+{GAMEPLAY}
+
+[He swings it around, but it never occurs to him to actually hit the car
+directly. He eventually drops it after taking enough damage. He then starts to 
+rear down, preparing for a ram.]
+
+SHEVA: Something's wrong with him! Watch out!
+
+[They manage to stop him from ramming the jeep. His plaga parasite pops out
+again and is met with a barrage of fire until it explodes.]
+
+{CUTSCENE #21 -- Delta Team's Distress}
+
+[The NDESU falls on top of the jeep, dead, but thankfully CHRIS and SHEVA jump
+out in time. They survey the surroundings, affected greatly by the loss of 
+Delta Team. SHEVA reaches down and takes some dog tags from a fallen comrade.]
+
+SHEVA (whispers): Where are you, Josh?
+
+CHRIS: Sheva, you don't have to do this. You can still back out.
+
+SHEVA: What about you?
+
+CHRIS: I've got a personal stake in this.
+
+SHEVA: A "personal stake"? Chris, look around! We should both get the hell out
+of here.
+
+CHRIS: I'm not here just for the mission.
+
+SHEVA: What are you talking about?
+
+CHRIS: A while back I received some intel that my old partner was still alive.
+At first I didn't know what to think, but when I saw the data file from Delta
+Team, I knew for sure. Jill is still alive.
+
+SHEVA: That woman in the data file? Are you even sure it's the same person!?
+
+CHRIS: We were partners, I'm sure.
+
+[CHRIS starts to walk away.]
+
+SHEVA: Wait! 
+
+[CHRIS stops for a moment, then continues walking away.]
+
+SHEVA: Wait! You're not going alone! 
+
+{CUTSCENE #22 -- The Wetlands}
+
+[CHRIS is still walking, with SHEVA following at a distance.]
+
+SHEVA: Chris! Wait!
+
+CHRIS: I don't have much time, I have to find her.
+
+SHEVA: I'm going with you! These are my people that are dying here.
+
+[CHRIS stops and turns around.]
+
+CHRIS: Are you sure about this? A second ago, you were ready to cut and run.
+
+SHEVA: I can't just turn my back and walk away. 
+
+CHRIS: There are no more orders from here on in. It's just us.
+
+SHEVA: We're partners to the end. Now let's get moving.
+
+CHRIS (pauses): Copy that.
+
+[The two make their way to a airboat. Turning on the light and the motor, they
+ride off into the night.]
+
+====Chapter 3-1: Marshlands====
+
+{CUTSCENE #23 -- Shadows of the Past}
+
+[It is dawn. The airboat zooms past a village.]
+
+SHEVA: What happened to your partner?
+
+CHRIS: Jill and I were pursuing a man named Albert Wesker. 
+
+[The scene changes to the flashback in CHRIS' mind. CHRIS and JILL are seen in
+SPENCER's estate.]
+
+CHRIS (voiceover): Wesker...He was a top official with Umbrella, and the leader
+of our S.T.A.R.S unit. I met him again after the Raccoon City incident on 
+Rockfort Island. Since then we'd been trying to track him down.
+
+[CHRIS and JILL are walking down a hallway.]
+
+CHRIS (voiceover): Then a few years ago we got a tip from a reliable source.
+The whereabouts of Umbrella's founder Ozwell E. Spencer. So we paid him a 
+visit hoping he'd lead us to Wesker.
+
+[CHRIS and JILL approach a large door. Timing it together, they bust through
+the door to find SPENCER dead on the ground and ALBERT WESKER looking out the 
+window. As he turns around to look at them, there is a flash of lightning that 
+reveals WESKER's gold-red eyes through his sunglasses.]
+
+CHRIS: Wesker!
+
+[CHRIS and JILL open fire, but WESKER moves so fast he literally teleports from
+place to place, dodging the bullets. He runs up to CHRIS and pummels him, then
+dodges JILL's shots and grabs her neck, pinning her against the wall. CHRIS 
+pushes WESKER away from strangling JILL and tries to punch him back, but WESKER
+dodges them easily, grabbing CHRIS' hand. CHRIS tries to counter with a
+roundhouse kick but WESKER easily dodges it, pushing him away to dodge JILL's
+shots again. After a slow-motion view of a particularly stylish dodge, JILL
+runs out of bullets, discarding her pistol and pulling out her knife instead.
+Rushing towards him, her attack is blocked and she receives a thrust punch,
+crashing into a bookshelf. CHRIS tries to punch again, but WESKER dodges and
+grabs him by the neck and slamming him down a table. CHRIS is pretty much spent
+after this attack, and WESKER starts to strangle him.]
+
+JILL: No!
+
+ALBERT WESKER: Let's finish this.
+
+[Just as WESKER is about to punch CHRIS' head off, JILL tackles him out the
+window, and they both plummet down the cliffside, seemingly to their deaths. 
+CHRIS, despite his injuries, manages to rush to the window, looking down and
+extending his arm in a futile gesture.
+
+CHRIS: Jill!
+
+[The flashback ends, and the scene moves back to the airboat.]
+
+CHRIS: Jill's body was never found and she was presumed dead. The person I saw
+in that data looked like her. I...have to know if she's still alive.
+
+SHEVA: You two were close.
+
+CHRIS: We were partners. What about you? Why'd you join the BSAA?
+
+SHEVA: My parents were involved in an accident caused by a pharmaceutical
+company when I was young. 
+
+CHRIS: Umbrella?
+
+SHEVA: Yes. I only found out later that the accident was to cover up the
+manufacturing of biological weapons for terrorists. They were using Africa as
+a test bed for their experiments. Bioweapons were responsible for the death
+of my parents. And someone has to pay for that!
+
+CHRIS: So you joined the BSAA.
+
+SHEVA: There's only so much one person can do. Even a superhero like you, 
+Chris.
+
+CHRIS: I'm no superhero. But together, we can end this
+
+SHEVA: Then let's make a stand for our fallen brothers!
+
+CHRIS: Hang on.
+
+[CHRIS accelerates the boat, which makes a jump off a wooden ramp into the
+marshlands. They stop at a wooden dock.]
+
+{GAMEPLAY}
+
+[It appears that they are at some traditional village in the marshlands. There
+are animal skulls and shields lying around. They also find the body of a BSAA 
+agent speared to death, and from the dead man's PDA they find a Schedule Report
+revealing that there might be a survivor from Delta Team, but a sealed door
+is blocking infiltration efforts. On this island they find the Beast Slate.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA get on the boat.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA make their way to the next village island.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA get off the boat.]
+
+{GAMEPLAY}
+
+[The village here is a structural achievement, basically a number of wooden
+thatched shacks on stilts above the water.]
+
+{CUTSCENE}
+
+[Suddenly, several villagers wading in the water below make a superhuman jump 
+onto a wooden bridge. They wear nothing but straw skirts. It is quite obvious
+that these villagers have been infected by Las Plagas.]
+
+{GAMEPLAY}
+
+CHRIS: They're all infected!
+
+SHEVA: How could someone do this to them?
+
+[Some Majini with wooden shields and spears come to join the fight. Other
+Majini make giant leaps from other bridges and shacks to attack the two. They
+manage to defeat all of the Majini. In a treasure chest, they manage to pick up
+the Warrior Slate.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA get on the airboat.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA make their way to the next village.]
+
+{CUTSCENE} 
+
+[Suddenly some spikes are raised to block the way, and firebow-wielding Majini
+come to make trouble.]
+
+{GAMEPLAY}
+
+SHEVA: You steer! I'll shoot!
+
+[SHEVA uses her sniper rifle to take down the Majini.]
+
+SHEVA: Slow down! It's hard enough to shoot as it is!
+
+{CUTSCENE}
+
+[After taking down all the Majini, the spikes retract down, letting them pass.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA make their way to the next island.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA get off the boat.]
+
+{GAMEPLAY}
+
+[This island has some chickens wandering around. Not much else on this island.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA get on the airboat.]
+
+{GAMEPLAY}
+
+[CHRIS drives over to the next area.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA get off the boat.]
+
+{GAMEPLAY}
+
+[The dock leads down to the water, in a large enclosed pool.]
+
+CHRIS: Looks like we have to go this way.
+
+[As they walk through the pool, they see a ripple and a spray, and a monstrous
+crocodile surfaces. They hurry over to climb a ladder up onto a shack and up
+to safety. Unfortunately it actually isn't as safe as it might look, for some
+Majini lurk in the shacks. After dispatching them, they find the Raptor Slate
+in a chest. Now they must run back through the pool to the other dock.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA get on the airboat.]
+
+{GAMEPLAY}
+
+[CHRIS drives over to the next island.
+
+{CUTSCENE}
+
+[CHRIS and SHEVA get off.]
+
+{GAMEPLAY}
+
+[This island seems larger than the others. The shacks here are actually on 
+solid ground. Ahead there are a series of shacks on stilts, but the ladders are
+broken for each one. CHRIS gives SHEVA several boosts. In one of them they find
+the Shaman Slate, the final piece of the slate.]
+
+{CUTSCENE}
+
+[The Majini are alerted to CHRIS and SHEVA's presence, running over for the
+attack.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA defend themselves against the horde. Thanks to a small gap in
+the wall, they are able to create a chokepoint, which aids them in defeating the villagers.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA get back on the boat.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA make their way to a shipwreck in the middle of the lake.]
+
+{CUTSCENE}
+
+{CHRIS and SHEVA get off the airboat.}
+
+{GAMEPLAY}
+
+[Inside a case on the boat a Rocket Launcher can be found.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA get back on the airboat.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA make their way to a small shack complex.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA get off the boat.]
+
+{GAMEPLAY}
+
+[There's one large shack, but not much else.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA get on the boat.]
+
+{GAMEPLAY}
+
+[The two drive over to the next place, the actual village.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA hop off of the boat onto the beach.]
+
+{GAMEPLAY}
+
+[There is a hole in the door where CHRIS insertes the four slates, opening it.
+They wade their way through a muddy river to get into the village, which seems
+deserted. A dead BSAA member lies under a shack, as well as his weapon, an
+S&amp;W M29. Suddenly, a horde Majini come along, including two giant ones wearing 
+large bulletproof masks and carrying massive clubs. After a long fight CHRIS
+and SHEVA manage to take them down. There is a wooden bridge that is drawn up.
+They get to the crank that operates it.]
+
+SHEVA: I'll turn this crank. You head toward the bridge.
+
+[CHRIS crosses the bridge as it gets lowered. As soon as SHEVA lets go of the
+crank, the bridge pops back up. CHRIS makes his way up a flight of stairs and
+then unbars a door to allow SHEVA to join him. On the top floor is also a
+tattered diary of a village youth, documenting the mental deterioration of the
+village as they are controlled by the Plaga. They travel along the upper levels
+of the village, getting on a wooden gondola lift to the next chapter.]
+
+====Chapter 3-2: Execution Ground====
+
+{CUTSCENE}
+
+[The gondola lift makes its way down.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA get out of the gondola and make their way out.]
+
+{CUTSCENE}
+
+[There are a series of docks, and hanging on a large wooden bar is the corpse 
+of a Delta Team soldier. Suddenly, a giant crocodile leaps up from the water 
+and gobbles the body up, much to the delight of the Majini.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA make their way through the wooden docks, taking down Majini 
+along the way.]
+
+{CUTSCENE}
+
+[The Majini ahead of them pull up a drawbridge, blocking the way.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA get to a crank tied to a raft.]
+
+SHEVA: Get on the raft and I'll turn the crank.
+
+[CHRIS makes his way to a crude wooden raft.]
+
+SHEVA (through radio): I'll handle it. Be careful on that thing.
+
+[The raft slowly drifts down the lake as Sheva turns the crank. The crocodile 
+tries to eat CHRIS several times, but to no avail. He finally makes it to the
+other side of the docks, pushing a button and bringing the bridge back down
+again. They are able to cross it and enter a cave tunnel.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA get out of the cave to find a bunch of tents in a clearing.]
+
+CHRIS: Tricell...?
+
+[The tents bear the Tricell name and logo.]
+
+CHRIS: They help fund the BSAA...What the hell are they doing here?
+
+{GAMEPLAY}
+
+[Walking past, they can see a large manufacturing complex.]
+
+SHEVA: Looks like we've arrived at the oil field.
+
+CHRIS: Yeah...And Irving's not getting away this time.
+
+{CUTSCENE}
+
+[Entering, they see a maze of catwalks...and Irving walking on the opposite
+side of the catwalks.]
+
+SHEVA: Look! It's Irving.
+
+[Up ahead there is a valve, which CHRIS starts to turn.]
+
+SHEVA: I'll cover you!
+
+{CUTSCENE}
+
+[The fires that are spewing over the catwalk shift position, allowing them to
+cross. More Majini come to make trouble.]
+
+{GAMEPLAY}
+
+[They head up to a lever, which summons a zipline when pulled. One by one they
+ride down the zipline to the other end. There's a valve that CHRIS turns 
+again.]
+
+{CUTSCENE}
+
+[The flames blowing across the catwalk are partially turned off.]
+
+{GAMEPLAY}
+
+[They unbar a door and find out that a chainsaw Majini is chasing them.]
+
+SHEVA: That's the last thing we need!
+
+[CHRIS and SHEVA cooperate to take down the chainsaw Majini, then pull another
+lever to access another zipline...to find that there's another chainsaw Majini
+on the other side.]
+
+SHEVA: Another one!?
+
+[Once again they take down the chainsaw Majini, making their way to another
+zipline and another valve.]
+
+{CUTSCENE}
+
+[This time all the flames are shut down.] 
+
+{GAMEPLAY}
+
+[They continue to make their way down, taking down a whole bunch of Majini and 
+then opening a red door into the next area.]
+
+{CUTSCENE #24 -- Josh to the Rescue}
+
+[CHRIS and SHEVA enter the indoor complex when they hear someone approaching
+their way. Oddly enough, this man carries a pistol.]
+
+SHEVA: Josh?
+
+JOSH: Sheva?
+
+SHEVA: You're alive. Are you okay? Wh--How did you get here?
+
+JOSH: We were at the port when we were attacked, and then...well...I ended up
+here. Where's the rest of the team.
+
+[CHRIS and SHEVA look at each other, then bow their heads.]
+
+JOSH: Shit!
+
+SHEVA: It's just the three of us now.
+
+JOSH: Why did you not retreat? I mean, we're no match for them!
+
+CHRIS: I've got unfinished business.
+
+SHEVA: The hard drive containing data on the B.O.W. experiment had a picture
+inside; the picture was of Chris' friend.
+
+JOSH: A friend?
+
+CHRIS: I'm not leaving until I catch Irving and find out what the hell is going
+on here.
+
+[Suddenly a Majini runs behind them. They turn around, pistols at the ready.
+The door slides shut behind them.]
+
+JOSH: Let's save the chit-chat for later.
+
+[A Majini jumps through the window, charging at them, but CHRIS takes him down
+quickly. They are becoming surrounded; a Majini lands near JOSH but is shot by
+SHEVA, who gets the favor returned by another Majini that JOSH takes out. The
+shock of it forces her back to a chain-link fence, behind which several Majini
+lurk. She quickly dispatches them.]
+
+JOSH: Sheva, cover me!
+
+CHRIS: Hurry!
+
+[JOSH runs to a computer, furiously typing in the hopes of getting the door 
+open.]
+
+{GAMEPLAY}
+
+JOSH: Cover me while I disable the elevator's lock.
+
+[Majini are coming in from all corners. They manage to survive the first wave.]
+
+JOSH: Nice job, but don't let your guard down. There's bound to be more of them
+around.
+
+[He's quite right, because Majini are starting to bust through the windows.]
+
+JOSH: Almost got it!
+
+[Some big Majini come to join the fight.]
+
+{CUTSCENE}
+
+[The elevator is unlocked.]
+
+JOSH: There! Got it! You two, on the elevator! Move!
+
+{GAMEPLAY}
+
+[The three of them get into the elevator.]
+
+{CUTSCENE}
+
+[They go up onto the second floor of catwalks.]
+
+{GAMEPLAY}
+
+JOSH: Move! Move!
+
+[More Majini, including crossbow Majini, come to join the fight.
+
+JOSH: Bloody hell! These bastards don't quit!
+
+[They take out the Majini ahead, moving down the catwalk.]
+
+JOSH: There should be an exit up ahead! Go!
+
+[They make their way to the exit, but it's locked.]
+
+JOSH: Dammit! Is everything locked down!?
+
+{CUTSCENE}
+
+[JOSH types furiously on the computer next to the door.]
+
+JOSH: This is gonna be a pain in the ass, but I will see what I can do...
+
+{GAMEPLAY}
+
+JOSH: Oh no! Not this shit again! You two, engage those hostiles!
+
+[CHRIS and SHEVA engage the horde, but to make things much more worse, a 
+chainsaw Majini shows up. They hold off the horde of Majini.]
+
+{CUTSCENE}
+
+JOSH: Okay, got it!
+
+{GAMEPLAY}
+
+JOSH: Forget those guys! OVer here--on the double!
+
+[CHRIS and SHEVA run to the exit.]
+
+{CUTSCENE #25 -- Splitting Up}
+
+[The three of them rush in, and JOSH closes the door.]
+
+JOSH: Are you okay?
+
+CHRIS: Yeah, I think so.
+
+SHEVA: I'm okay.
+
+JOSH: It looks like Irving is trying to blow up the place and make his escape.
+You must stop him before it is too late. I'll try to find us a way out of here.
+
+CHRIS: Alright, we'll go after Irving.
+
+JOSH: Good! Okay, now there's a dock up ahead. That is probably where he is
+going to make his break.
+
+SHEVA: Copy that. 
+
+[JOSH turns to leave.]
+
+SHEVA: And Josh! Be careful.
+
+[JOSH nods back, then leaves.
+
+CHRIS: Let's hurry.
+
+SHEVA: Okay.
+
+{GAMEPLAY}
+
+[The two of them make their way to the docks.]
+
+SHEVA: That's Irving's boat! Let's go!
+
+[CHRIS and SHEVA run down the docks.]
+
+{CUTSCENE #26 -- Irving's Web}
+
+SHEVA: There he is!
+
+[IRVING is seen boarding his yacht, while the BIRD LADY jumps down onto a 
+motorboat.]
+
+SHEVA: Wait! Isn't that...?
+
+[The motorboat speeds away. IRVING laughs.]
+
+IRVING: Splendid timing! You two are just in time for the fireworks show! Boom!
+(laughs)
+
+[His yacht starts to take off.]
+
+CHRIS: Wait! (to SHEVA) I hate that guy.
+
+[A large shout is heard, and they turn around. There's a stampede of Majini 
+coming for them. Screen fades to black, then comes back to see Josh running
+towards a small motorboat.]
+
+JOSH: Sheva, do you read me? I secured a boat! I'm on the other side of the 
+dock! Get here on the double!
+
+{GAMEPLAY}
+
+[Majini, big and regular sized, as well as Adjule block the way. They must 
+make it before the countdown for the bomb ends.]
+
+JOSH: What's taking so long? Chris! Use your PDA to confirm the coordinates!
+These guys aren't making it easy! (as CHRIS and SHEVA approach) Get over here! 
+Hurry! 
+
+SHEVA: Hurry! Over here!
+
+{CUTSCENE #27 -- The Oil Field Aflame}
+
+[They run down the docks.]
+
+JOSH: Quickly! We must go! (to SHEVA) Are you all right?
+
+[The oil refinery suddenly blows up, and the derrick in the middle starts to
+collapse. The three hightail it out of there on the motorboat, watching the
+refinery explode.]
+
+====Chapter 3-3: Oil Field - Drilling Facilities====
+
+{CUTSCENE #28 -- Boat Majini Appear}
+
+[The motorboat chugs serenely along.]
+
+JOSH: What happened to Irving?
+
+[CHRIS and SHEVA look at him sullenly, remaining silent. JOSH takes the hint.]
+
+JOSH: Ahh...well he can't have gone too far.
+
+SHEVA: Josh...
+
+CHRIS: Thanks.
+
+[All of a sudden a flaming arrow hits the boat, signalling the approach of
+motorboat-driving Majini.]
+
+JOSH: thank me later, we got company!
+
+[JOSH pulls the throttle as arrows whizz everywhere.]
+
+CHRIS: I'm on it!
+
+SHEVA: We got you covered!
+
+{GAMEPLAY}
+
+JOSH: Here we go! Hang on tight!
+
+[The Majini in the boats are taken out. They pass under bridges full of Majini,
+but luckily there are explosive barrels lying all around. Crossbow and Molotov
+Cocktail Majini are all around, as well as some flittering Kipepeo. The river
+is blocked by a gate ahead.]
+
+JOSH: Dammit! The gate's closed! See what you two can do to get it open!
+
+[The boat stops, and CHRIS and SHEVA get off and run over to pull the lever and
+open the gate. They get back on the boat.]
+
+JOSH: Alright! Let's go!
+
+[A rather low-hanging pipe approaches.]
+
+JOSH: Get down!
+
+[CHRIS and SHEVA duck.]
+
+JOSH: Another pipe! Get down!
+
+[CHRIS and SHEVA duck again. Ahead the way is blocked again.]
+
+JOSH: Another gate...okay! You two know what to do!
+
+[CHRIS and SHEVA get out again. This time, however, there's a machine gun 
+turret and two levers to pull to complicate things. They manage to take out the
+turret, then both of them pull the two levers at the same time.]
+
+{CUTSCENE}
+
+[The gate opens.]
+
+{GAMEPLAY}
+
+[Continuing down, an M3 shotgun can be found in a case. They make their way
+back to the boat and out into the open lake.]
+
+JOSH: Okay! Now let's go get this Irving!
+
+{CUTSCENE #29 -- The Patrol Boat}
+
+[They float silently across the fog. Suddenly, IRVING'S yacht comes into view.]
+
+JOSH: Oh shit!
+
+[He frantically turns the wheel, and they crash into his yacht. A Majini comes
+and takes control of a machine gun turret on the yacht.]
+
+CHRIS: Damn it! They're gonna to sink us!
+
+[CHRIS and SHEVA huddle under the boat.]
+
+JOSH: We've got to do something!
+
+CHRIS: We gotta get aboard that ship!
+
+JOSH: Hold on! Get ready!
+
+[They speed parallel to the yacht. CHRIS draws his pistol and takes out the
+machine gunner. Meanwhile, IRVING is watching from his yacht, and we see a
+flashback in his mind.]
+
+BIRD LADY (flashback): What are you going to do about them?
+
+IRVING: You're just one of Excella's playthings!
+
+[BIRD LADY grabs him by the throat and pins him against the wall.]
+
+IRVING: It was your master who was--
+
+BIRD LADY: One more time! What are you going to do about them?
+
+[The camera pans onto a fallen suitcase full of gold bars.]
+
+IRVING: Alright! Alright! I'll handle it.
+
+[She lets him go, and he falls to the floor, gasping for breath. BIRD LADY
+holds a syringe to him.]
+
+BIRD LADY: Use it.
+
+IRVING: This?
+
+[The flashback fades to black. It returns to CHRIS and SHEVA climbing aboard the
+yacht. IRVING approaches them.]
+
+IRVING: Won't you two just die already!? You're making me look bad! Who do you
+think got this entire operation off the ground? Research like this doesn't fund
+itself, you know. Yet everyone looks down on me. (holds up the syringe) But not
+anymore.
+
+SHEVA: Don't do it!
+
+[CHRIS and SHEVA raise their pistols as IRVING injects it into his neck. His
+laughs are cut short by screams of pain. A mass of tentacles explode out of his
+back.]
+
+IRVING: I'm far beyond anything you could ever hope to become! (laughs)
+
+[He sends out several large tentacles at CHRIS and SHEVA, but they dodge them
+in time and return fire. IRVING jumps into the sea. CHRIS and SHEVA look into 
+the waters, seeing nothing when a single, massive tentacle pops up on the other
+side of the ship, almost slamming into them. Then the mouth of the giant
+KRAKEN appears. It opens to reveal IRVING, now a fixture to the monster.]
+
+CHRIS: Shit.
+
+IRVING: I just had an extreme makeover!
+
+[With a roar the IRVING/KRAKEN jumps to the other side, starting the fight.]
+
+{GAMEPLAY}
+
+JOSH: Chris! Status report! What the hell is that thing!?
+
+CHRIS: Just get outta here, Josh! It's too dangerous!
+
+SHEVA: We'll try to stop it!
+
+JOSH: Understood. Just try not to get yourselves killed!
+
+SHEVA: Something that undergoes such a rapid transformation must have a 
+weakness.
+
+[CHRIS and SHEVA use the mounted grenade launchers and machine guns to destroy
+IRVING's tentacles, in the meanwhile dodging the others. Although the destroyed
+tentacles regenerate, it leaves a moment of vulnerability for the monster's
+head to be targeted.]
+
+{CUTSCENE}
+
+[After this hit, IRVING grabs onto the yacht's rear with his tentacles and 
+hangs out of his jaws like a tongue.]
+
+{GAMEPLAY}
+
+SHEVA: There's the little weasel!
+
+[CHRIS grabs one of the machine guns, blasting IRVING's actual self and dodging
+his attacks.]
+
+{CUTSCENE #30 -- A New Clue}
+
+[The monster has sustained too much damage, and collapses back into the sea 
+with a roar. The fleshy IRVING-tongue flies up into the air and lands on deck,
+squirming and spewing blood everywhere. CHRIS and SHEVA point their pistols at
+the dying IRVING.]
+
+CHRIS: Tell me what you're planning to do!
+
+IRVING: Damn Excella! I guess I wasn't worth the good stuff.
+
+SHEVA: Excella?
+
+[CHRIS kneels down next to IRVING and shows him JILL's picture on his PDA.]
+
+CHRIS: Where is this facility? Answer me! What is the Uroboros Project!?
+
+IRVING: The BSAA...wow, you two are just on top of everything, aren't ya? The
+balance of the world is changing and you're completely oblivious to it. 
+
+SHEVA: What's changing? What are you talking about!? Is it the Uroboros 
+Project? Is that it?
+
+IRVING: It's too late now. No one can stop it. Uroboros is about to change 
+everything... (starts to moan in pain)
+
+SHEVA: Chris!
+
+IRVING: Chris? So you're Chris. (laughs)
+
+CHRIS: What's so funny? How do you know about me?
+
+IRVING: All your answers await ahead, Chris...in that cave. If you can survive
+long enough to get them. (starts to laugh again) Dying's not so bad. But it's
+not gonna change anything. You're still screwed!
+
+CHRIS: We're wasting time here. 
+
+[He draws his pistol and aims at IRVING, meaning to finish him off, but SHEVA
+pushes it away.]
+
+SHEVA: Chris...
+
+[IRVING dies, bubbling away into nothing.]
+
+CHRIS: Poor bastard...
+
+SHEVA: Now what?
+
+[They look at each other.]
+
+CHRIS: We keep going.
+
+====Chapter 4-1: Caves====
+
+{CUTSCENE #31 -- The Docks}
+
+[CHRIS, SHEVA, and JOSH enter the cave in their motorboat.]
+
+CHRIS: So this is the place he was talkin' about.
+
+SHEVA (getting up and pointing): That's the boat the woman used to get away!
+
+[Sure enough, ahead there's a dock, and tied to the dock is the boat. CHRIS 
+and SHEVA get off at the dock.]
+
+JOSH: So you two are really gonna go through with this?
+
+CHRIS: Yes.
+
+SHEVA: This is not just about Jill, but the Uroboros Project as well.
+
+JOSH: I guess there's nothing I can do to stop you. I will call HQ and try to
+get the withdrawal order rescinded. I will also try to get you backup. Try not
+to get yourselves killed!
+
+[JOSH drives away, giving them a good-luck salute.]
+
+{GAMEPLAY}
+
+SHEVA: That name Irving said, Excella...
+
+CHRIS: You've heard it before?
+
+SHEVA: That's the name of the director of Tricell's African division.
+
+CHRIS: Do you think she could be connected to Irving?
+
+SHEVA: It's possible, but I don't have any proof.
+
+CHRIS: Tricell...if there is a connection, what does that mean for Africa?
+
+SHEVA: Not sure, but if we keep going, we're bound to find out.
+
+CHRIS: True. Let's move.
+
+[They move through some buildings and into the caves. It's not as dark as the
+mines; sunlight streams through several holes in the ceiling.]
+
+{CUTSCENE}
+
+[Suddenly, several massive spiders the size of a dog burrow out of the ground.
+These are the Bui Kichwa, spiders infected with the Plaga parasite.]
+
+{GAMEPLAY}
+
+[Although they are quite weak individually, they come in packs of five or so.
+CHRIS and SHEVA move through the cave, taking down these burrowing spiders as
+they go. They finally make their way to a stone door that looks like the work
+of some ancient civilization.]
+
+{CUTSCENE}
+
+[There is an enormous complex of ancient ruins.]
+
+{GAMEPLAY}
+
+SHEVA: I never knew such a place existed here...
+
+CHRIS: It looks like there's been some recent activity.
+
+SHEVA: I hope Irving was telling the truth when he said we'd find answers in 
+this place.
+
+[They proceed down the ruins, up to a stone bridge.]
+
+{CUTSCENE #32 -- The Bridge Collapses}
+
+[SHEVA starts to cross the bridge, but unknown to her some marshland Majini are
+watching her. As she crosses about midway, the Majini push over a pillar. SHEVA
+manages to dodge to the other side, but the bridge is broken.]
+
+{GAMEPLAY}
+
+SHEVA (through radio): Chris! Are you okay?
+
+[CHRIS jumps down into the midst of several Majini.]
+
+SHEVA: I'll provide cover!
+
+[CHRIS fights off the Majini as SHEVA gives him covering fire from above. They
+finally manage to take out all the Majini, and CHRIS rejoins SHEVA. There's a
+sarcophagus that they push open together, but it's empty and triggers a 
+trapdoor through which CHRIS and SHEVA fall. To make things worse there are
+Majini and Bui Kichwa here.]
+
+{CUTSCENE}
+
+[A door slides open.]
+
+{GAMEPLAY}
+
+[A big Majini carrying two torches joins the fight, but he is taken out along
+with the rest of the Majini. Outside of the door is a large chamber. Perhaps it
+used to be the courtyard of this ancient civilization. They take out the Majini
+here, then make it to the center, where there is a large valve only two people
+can turn.]
+
+{CUTSCENE}
+
+[The door ahead opens.]
+
+{GAMEPLAY}
+
+[Suddenly several spiky wooden balls tumble out onto a torch, igniting.]
+
+SHEVA: What on God's name are those? Better give them a wide berth!
+
+[The door is gradually closing.]
+
+SHEVA: Hurry! It's closing!
+
+[CHRIS rushes through the half-open door, stepping onto a pressure pad that
+opens the door.]
+
+SHEVA (through radio): I didn't know you could move so fast.
+
+[They head through the door.]
+
+{CUTSCENE}
+
+[Walking down a hallway, they inadvertently step on a pressure pad that causes
+the pillars around them to collapse. They run for their lives, jumping over
+holes where the floor collapses. On the final floor collapse, CHRIS barely
+makes it, having to be helped up by SHEVA. Before the door in front of them
+closes, they jump through the crack, barely making it.]
+
+{GAMEPLAY}
+
+[Going down the hall, they come a dead end and two chains.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA pull the chains, and the wall in front of them slides down to
+reveal a large staircase. Going down, the ruins ahead are like a labyrinth of
+sorts. Debris is scattered all about. Inside a case a Grenade Launcher can be
+found. Moving past this, there is a turquoise statue (almost reminiscent of 
+Buddha) with two chains hanging from his hands. Unfortunately, the way to the 
+other hand is blocked by a large rock.]
+
+SHEVA: Get to the other one!
+
+[CHRIS takes the long way around to the other side.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA pull at the same time. The statue slowly retracts back into 
+the wall and triggering the creation of a staircase in another part of the 
+ruins.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA make their way up the staircase and arriving at another statue
+with chains in his hands.]
+
+{CUTSCENE}
+
+[As they pull it, a number of staircases shift around positions.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA proceed forward.]
+
+{CUTSCENE}
+
+[In the distance, a number of Majini are coming over for the attack.]
+
+{GAMEPLAY}
+
+[The two take out the Majini in their path, making their way to a golden statue
+with chains in his hands.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA pull the chains, changing the configurations of the staircases
+again.]
+
+{GAMEPLAY}
+
+[They make their way to a purple statue, but this one is only holding one 
+chain.]
+
+SHEVA: There's only one chain. The other one must be somewhere else.
+
+[The other chain is downstairs, but as they approach it they are attacked by a
+horde of Majini and Bui Kichwa. They manage to take them out, and CHRIS makes
+his way back upstairs to pull the chain there.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA pull the chains, and another set of stairs changes.]
+
+{GAMEPLAY}
+
+[The two make their way to a red statue.]
+
+{CUTSCENE}
+
+[They pull the chains, and this time a massive staircase up is raised.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA head over there.]
+
+{CUTSCENE}
+
+[Suddenly, the two hear a shriek and look up. Fluttering above is another
+POPOKARIMU.]
+
+{GAMEPLAY}
+
+[Once again CHRIS and SHEVA use explosives to stun the POPOKARIMU and expose 
+its weak underside, eventually killing it. After, they ascend the steps up to 
+the worship area.]
+
+{CUTSCENE #33 -- Wesker's Return}
+
+[Meanwhile, somewhere else...]
+
+EXCELLA GIONNE: The preparations are almost complete. Then we can leave.
+
+WESKER: Good.
+
+[EXCELLA is holding a syringe, injecting it into WESKER.]
+
+EXCELLA: You know, I was surprised Las Plagas was such a success. When you 
+first arrived I had my doubts. And now Uroboros is complete.
+
+WESKER: Your position at Tricell is secured.
+
+EXCELLA: Oh...I have my eyes set on something much bigger. You'll be needing a
+partner, right? Someone suitable to join you in your new world? I believe I've
+proved I'm worthy, haven't I? 
+
+[She starts to embrace WESKER. He gently grasps her face with his gloved hand,
+then pushes it away haughtily.]
+
+WESKER: Perhaps you have.
+
+BIRD LADY: The BSAA are here.
+
+EXCELLA: It appears your old friend Chris Redfield has come to pay a visit. Do 
+I sense concern?
+
+WESKER: The plan is in its final stages, I will not tolerate delays.
+
+[EXCELLA goes to the couch, closes her briefcase full of syringes, and leaves,
+along with BIRD LADY. Meanwhile, WESKER surveys his factory, and he has a 
+flashback at the Spencer Estate with a dying OZWELL E. SPENCER, of which we
+catch a few bits and snatches of their conversation.]
+
+OZWELL E. SPENCER: ...a new superior breed of humans...creating a new world...
+the Progenitor Virus...you! I was to become a God!
+
+[A flash, then WESKER is speaking directly into SPENCER's ear.]
+
+WESKER: That right is now mine.
+
+[SPENCER's body collapses onto the floor, dead.]
+
+WESKER: I believe I should thank you, Spencer.
+
+====Chapter 4-2: Worship Area====
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA are in the ruins of an ancient temple. They move forward.]
+
+{CUTSCENE}
+
+[Some Majini are standing next to a big structure with a glass in it. Suddenly
+the sun shines through it, and the glass focuses it like an magnifying glass,
+sending a tangible beam of heat through the ruins.]
+
+{GAMEPLAY}
+
+SHEVA: Impressive...they appear to be focusing sunlight into a laser-like beam.
+
+[It is indeed like a laser. Thankfully there are plenty of niches to hide in
+away from the beam. CHRIS and SHEVA head down the burning alleyway and engage
+several Majini. Up past a flight of stairs is a large torch, from which they
+take the Earth Emblem. They cross another burning way again and place the
+Earth Emblem into a door with three circular keyholes. The path to the west is
+is broken, so CHRIS gives SHEVA a boost over to the other side, then gives her
+covering fire against the Majini on that side so that she can retrieve the Sky
+Emblem. She manages to rejoin CHRIS, and they pass through some more burning
+pathways to insert the Sky Emblem into the door and get the Sea Emblem.]
+
+{CUTSCENE}
+
+[CHRIS inserts the Sea Emblem, unlocking the door, which slides open.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA get to the big stone doors that lead to the next area.]
+
+{CUTSCENE}
+
+[The two are now in a place that resembles an ancient Egyptian tomb.]
+
+{GAMEPLAY}
+
+[There are snakes and large tarantulas crawling about. They make their way to a
+door with an enormous green crystal on it.]
+
+{CUTSCENE}
+
+[The door slides open, revealing a hall of mirrors reflecting the sun's beams.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA step in.]
+
+{CUTSCENE}
+
+[The door slams shut.]
+
+{GAMEPLAY}
+
+SHEVA: I see...there's a trick to getting out of here. Tread carefully. Those
+beams are dangerously focused.
+
+[The two get to work, aligning the mirrors so that the beam shines on a 
+flammable drum in the corner of the room. It seems like the platform it is on 
+is an elevator of some sort.]
+
+SHEVA: Looks like it worked. Are we finished?
+
+{CUTSCENE}
+
+[CHRIS and SHEVA go down the elevator to another room of mirrors.]
+
+{GAMEPLAY}
+
+SHEVA: That pillar is in the way, but I think we can knock it over.
+
+[CHRIS kicks down several pillars standing in the way, and they align the 
+mirrors to activate the next elevator.]
+
+SHEVA: Another one down. What's next.
+
+{CUTSCENE}
+
+[CHRIS and SHEVA go down the elevator to another chamber of mirrors.]
+
+{GAMEPLAY}
+
+[They align the mirrors again, but this time several doors slide open. One of 
+the rooms has a bunch of Bui Kichwa in it, as well as the dead body of someone 
+who triggered a trap. Another room has treasure in it. The final room has an
+elevator platform on it, and they realign the mirrors accordingly.]
+
+SHEVA: Alright! We got it!
+
+{CUTSCENE}
+
+[They go down the elevator.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA are in some underground cavern now. Forward is a large 
+chamber.]
+
+{CUTSCENE #34 -- Underground Garden}
+
+[CHRIS and SHEVA enter the chamber to find a garden full of flowers. There's
+a sort of pyramid in the middle, with flowers growing all over it.]
+
+CHRIS: What is this place?
+
+[They walk up the steps. The flowers growing all around are red.]
+
+SHEVA: How can these survive underground?
+
+CHRIS: These are no ordinary flowers...
+
+[They look around at the flowers. CHRIS seems to spot something.]
+
+CHRIS: Wait!
+
+[He runs down and wipes off a large stone. Through the dust a faded Umbrella
+logo can be seen.]
+
+CHRIS: Umbrella?
+
+SHEVA: What? What was Umbrella doing here?
+
+CHRIS: I don't know. But it doesn't look like anyone's been around for a while.
+
+SHEVA: You can be sure they wanted to keep this place a secret.
+
+CHRIS: Some of this equipment's got the Tricell logo on it.
+
+SHEVA: Were they working together?
+
+====Chapter 5-1: Underground Garden====
+
+{GAMEPLAY}
+
+CHRIS: I wonder if this is what Irving meant by "answers."
+
+SHEVA: Not sure...but obviously there's a connection here with Umbrella, and
+that's never a good sign.
+
+CHRIS: We can worry about this later. First, we need to find out about Jill.
+
+SHEVA: You're right. Let's see what we can dig up.
+
+[Going from the underground garden into a hallway, they find a journal from
+Chief Researcher Brandon revealing that the Progenitor Virus was extracted
+from the flowers. In another room, they find another journal from Brandon
+in a computer documenting the closure of the garden facility.]
+
+{CUTSCENE}
+
+[Coming out of the computer room, it seems that something is crawling around
+the ceiling.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA find that the rest of the hallway is blocked by a pile of
+debris.]
+
+{CUTSCENE}
+
+[Opening another door, CHRIS and SHEVA find themselves in a lab of some sort.
+There are large tanks full of liquid and flowers.]
+
+SHEVA: They must be processing these flowers to make something.
+
+{GAMEPLAY}
+
+CHRIS: This is the facility from the picture. No doubt about it.
+
+SHEVA: We're finally getting somewhere.
+
+[A computer in the lab reveals an email from a Tricell employee. Opening the
+door to the other side, they find large bloodstains over the walls and floors.
+Large slashmarks can also be seen on several of the walls. They pull a lever
+to reveal a large glass window blocking their way, which they break open. There
+are a large number of cages housing goats, dogs, rats, and other animals. As
+they head through the room, a Licker suddenly jumps through a glass window,
+attacking CHRIS and SHEVA. They manage to take it down. In a security room the
+AK-74 can be found in a case.]
+
+CHRIS: Thank God there weren't more of them.
+
+SHEVA: Yeah, we wouldn't last in a fight with a whole horde.
+
+[They pull a lever and push some buttons to unlock a particularly heavily
+armored door. Through the hallway there are glass rooms full of Lickers.]
+
+SHEVA: I don't think they notice us.
+
+CHRIS: Guess their senses are weak.
+
+SHEVA: Just to be safe, we should be as quiet as possible.
+
+[They walk silently past the Lickers unnoticed, until they come across a steel
+door that needs to be kicked down by the both of them. They kick it down,
+alerting the Lickers, which crash through the glass and chase CHRIS and SHEVA 
+down a hallway to an elevator. Pressing the button, they realize that it'll
+take a while for the elevator to come down to their level. A horde of Lickers
+come down the hallway, and CHRIS and SHEVA hold them off until the elevator
+comes. When they come out they find themselves in a much more high-tech 
+hallway.]
+
+{CUTSCENE #35 -- Experimental Facility}
+
+[CHRIS and SHEVA walk down the hall into a massive chamber.]
+
+CHRIS: What the hell?
+
+[In the very middle of the chamber is a single large circular platform. On the
+walls are a large number of pods, the contents of which are unknown.]
+
+SHEVA: This was in the pictures too.
+
+CHRIS: Wait, that means Jill might be here!
+
+[Emergency sirens go off suddenly. One of the pods separates from the wall,
+opening up to reveal a limp human. The body is dumped out into the chasm 
+below.]
+
+SHEVA: What have they done?
+
+[SHEVA looks around in shock, while CHRIS notices a computer on the circular
+platform. He types quickly, finding JILL's file in the computer.]
+
+CHRIS: Jill!
+
+[JILL's file is on the screen. Suddenly a message pops up: "Access Floor," and
+the platform they stand on starts to move down like an elevator.]
+
+{CUTSCENE 36 -- U-8 Attacks}
+
+CHRIS (looking at the pods): There's so many...They must be kidnapping people
+from all over the world to experiment on.
+
+[Suddenly the platform jolts to a halt, and the computer screen goes red.]
+
+SHEVA: Why?
+
+CHRIS (turning around): Oh, that's why!
+
+[A giant crab-like B.O.W., Ultimate 8, lets out a meanacing roar. It suddenly 
+tries to slice CHRIS and SHEVA in half with its pincers, but they manage to 
+dodge the attack.]
+
+{GAMEPLAY}
+
+[As they inflict damage to the U8, it become stunned, with its mouth agape.]
+
+CHRIS: Eat this!
+
+[They toss in some hand grenades into its mouth, which cracks its shell.]
+
+SHEVA: It's working! His shell is cracking!
+
+[After inflicting more damage, the U8 is stunned again.]
+
+CHRIS: Have another one!
+
+[They toss in more grenades, which fully destroys the shell and exposes a
+fleshy pink weak spot.]
+
+SHEVA: The shell is off! Aim for that spot!
+
+{CUTSCENE #37: U-8 Repelled}
+
+[After blasting the weak spot as much as they can, the U8 finally succumbs,
+losing its grip and plummeting into the abyss. CHRIS and SHEVA look over the
+edge, when all of a sudden the platform starts to move again. As it stops a
+pod is retracted to their position, stopping right in front of them. It opens
+to reveal...nothing.]
+
+CHRIS: Dammit! Where is she?
+
+[The computer suddenly flickers and starts to show a live feed of a woman,
+EXCELLA.]
+
+EXCELLA: Mr. Redfield. How nice to finally make your acquaintance.
+
+CHRIS: Who the hell are you?
+
+SHEVA: Excella Gionne. She works for Tricell.
+
+EXCELLA: Nice, you've done your homework.
+
+SHEVA: An officer in the Global Pharmaceutical Consortium. Why?
+
+EXCELLA: As if I need to explain myself to you. Although were't you two given
+orders to retreat?
+
+SHEVA: So it WAS you!
+
+[EXCELLLA laughs mockingly.]
+
+CHRIS: Where is Jill?
+
+EXCELLA: Jill...even if I did know, you think I would tell you?
+
+CHRIS: Cut the crap! Tell me where she is!
+
+EXCELLA: As soon as you two are done with your little vigilante mission, you 
+should leave. There's nothing here worth throwing your lives away for.
+
+[The window closes, back to Jill's file again.]
+
+SHEVA: She's lying. She knows something.
+
+CHRIS: It's time we get some answers.
+
+====Chapter 5-2: Experimental Facility====
+
+{GAMEPLAY}
+
+SHEVA: So this was the facility Excella was talking about.
+
+CHRIS: She's got us under surveillance. I can almost guarantee she sent that
+B.O.W. to eliminate us.
+
+SHEVA: You can ask her about that, and about Jill, once we find her.
+
+CHRIS: Alright, let's find her then!
+
+[CHRIS and SHEVA leave the chamber and open a door. There are Majini armed with
+assault rifles below unaware of their presence. After taking them out, some
+Majini armed with stun rods are also taken out. The way thereafter is filled
+with these two types of enemies, and CHRIS and SHEVA move slowly but 
+methodically, taking cover and picking off each guard.]
+
+{CUTSCENE}
+
+[CHRIS and SHEVA push two buttons at once to open a door.]
+
+{GAMEPLAY}
+
+[The catwalks ahead are filled with guards, but thankfully many decide to 
+hunker down next to explosive containers.]
+
+{CUTSCENE #38: Monitored Communications}
+
+[CHRIS and SHEVA go up an elevator. Suddenly CHRIS starts to pick up a radio
+transmission. The voice sounds like EXCELLA's.]
+
+EXCELLA (through radio): ...boros has...loaded...Don't worry. The reserve 
+supply is almost ready.
+
+SHEVA: I know that voice!
+
+CHRIS: It's Excella.
+
+EXCELLA: That's...Albert...looking forward...
+
+CHRIS: Albert!?
+
+SHEVA: What?
+
+EXCELLA: And how are you holding up, Albert?
+
+[The transmission fades away.]
+
+CHRIS: Shit! Wesker...I thought he was dead...
+
+{GAMEPLAY}
+
+[The two get out of the elevator. The walls ahead have bloodstains and 
+slashmarks, which can only mean one thing...Lickers. They are crawling all over
+the place. Silently they walk past, not daring to make any noise. They finally
+make it to the door, which opens up to a large area with conveyor belts below.]
+
+{CUTSCENE}
+
+[Some assault rifle and stunrod Majini show up to make trouble.]
+
+{GAMEPLAY}
+
+[They take out the guards in a long, hard firefight. The door to the next 
+area is inaccessible though.]
+
+SHEVA: Looks like we have to go this way.
+
+[CHRIS and SHEVA jump onto the conveyor belt and go against the flow, 
+eventually making their way to the other side. The door is a steel door that
+takes both their efforts to kick open. It turns out to lead to a conveyor belt 
+full of explosive containers and guards with metal riot shields. They cross the
+belts to pull and lever and stop them. In a case past this point the SIG 556 
+can be found, as well as a file about a new type of B.O.W. They continue down 
+the catwalks.]
+
+CHRIS: Missiles!?
+
+SHEVA: Why would they need these do you think?
+
+CHRIS: Maybe they're planning to start a war.
+
+[Ahead is a generator with two levers, which they pull simultaneously.]
+
+{CUTSCENE}
+
+[On a control panel the light shines green.]
+
+{GAMEPLAY}
+
+[As they make their way down the catwalk, they see what looks like two cocoons
+suspended from the ceiling. Suddenly, they stumble upon the B.O.W., an 
+insectoid one called the Reaper, bearing a passing resemblance to the Chimera
+in the first Resident Evil.]
+
+SHEVA: what manner of beast is that!?
+
+[They open fire on it, damaging it to reveal its weak spots, the white bulbs
+that emerge on its belly and on its back. They manage to defeat the deadly
+Reaper, then continue down to the control panel, pulling the lever. It starts
+a series of conveyor belts below, but these belts are transferring what appears
+to be corpses.]
+
+SHEVA: These must be the discarded test subjects from the research facility.
+
+[Although they are called the Dead Brides, they are not dead. As CHRIS 
+approaches bodies they jump up and try to grab him. The two manage to make it
+to the other side. On the top is a lever that stops the belt. There's a door
+ahead that requires two buttons to be pressed simultaneously. They open it.]
+
+{CUTSCENE #39 -- Uroboros}
+
+[CHRIS and SHEVA enter the room, pistols readied. It's a lab that seems 
+deserted. The door slides shut behind them. They make their way forward.]
+
+CHRIS: Sheva!
+
+[CHRIS points to a person sitting in a chair ahead. He is fast asleep or 
+unconscious.]
+
+EXCELLA (through speakers): Well, glad you could make it.
+
+[CHRIS and SHEVA look around for the source of the voice.]
+
+EXCELLA: Up here, you two.
+
+[They look up to see EXCELLA. She is behind a glass window, standing next to
+BIRD LADY.]
+
+CHRIS: Excella...where's Jill!?
+
+EXCELLA: Jill, Jill, Jill. You're like a broken record, you know that? Just as
+single-minded as he said. You've spent so long trying to track down Uroboros,
+well, here. Enjoy.
+
+[The man gets up, and his skin starts to ripple. All of a sudden, black 
+tentacles start to shoot out of his body.]
+
+SHEVA: So Uroboros is a new B.O.W. And you're planning on selling it to 
+terrorists.
+
+EXCELLA: Good guess, but no. While it does resemble the B.O.W.s based on the
+Progenitor Virus, I have no intention of selling it to terrorists.
+
+CHRIS: Then what are you using it for?
+
+[The Uroboros man starts to writhe in pain, and then the tentacles retract into
+him.]
+
+EXCELLA: Evolution. It's a philosopher's stone, one that will choose through
+DNA who shall proceed to the next stage. My vision and his combined, now made a
+reality.
+
+[The man has recovered now, and is approaching quickly towards CHRIS and 
+SHEVA.]
+
+SHEVA: Evolution? What are you talking about!?
+
+EXCELLA: Oh, you'll find out soon enough. Everyone will.
+
+[The man stops, then starts to writhe in pain again.]
+
+EXCELLA: Hmm, too bad. Looks like he wasn't worthy. Only the chosen ones are 
+fit for the coming new world.
+
+[EXCELLA and BIRD LADY leave.]
+
+CHRIS: Excella! Wait!
+
+[Suddenly, massive tentacles explode out of the man, turning him into MKONO, a 
+tentacled mass similar to the first boss.]
+
+{GAMEPLAY}
+
+EMERGENCY VOICE: Warning! A biohazard threat has been detected. Clean-up 
+personnel must incinerate all contaminated materials.
+
+CHRIS: That's the same type of bioweapon that wiped out Alpha Team!
+
+SHEVA: Yes, but this one seems much more ferocious.
+
+[There are explosive cylinders that CHRIS and SHEVA knock down and shoot to
+damage MKONO with its only weakness: fire. MKONO detaches his arm, which chases
+CHRIS and SHEVA.]
+
+SHEVA: Watch out for his arm!
+
+[CHRIS and SHEVA dodge.]
+
+{CUTSCENE}
+
+[A panel shines green.]
+
+EMERGENCY VOICE: Flamethrower tank is now full. You may resume use when ready.
+
+{GAMEPLAY}
+
+[The two pour fire onto MKONO to reveal its weak spot, a large orange bulb.]
+
+SHEVA: That's its weak spot!
+
+[They blast away at the weak spot, and MKONO melts away only to have his 
+tentacles reform again in another spot. CHRIS grabs the flamethrower.]
+
+SHEVA: It's up to you! Burn that son of a bitch!
+
+[CHRIS blasts the flame all over MKONO, making it writhe in pain. In
+desperation MKONO tries to shoot out its arm, but the attack is dodged.]
+
+SHEVA: I can't get past its arm!
+
+[The fuel eventually gets used up.]
+
+EMERGENCY VOICE: No fuel remaining. Please refill tank.
+
+[CHRIS sticks the flamethrower back into the charging station. MKONO continues
+to chase them, as CHRIS and SHEVA toss incendiary grenades and shoot the
+flammable cylinders to damage it.]
+
+{CUTSCENE}
+
+[The recharge station shines green.]
+
+EMERGENCY VOICE: Flamethrower tank is now full. You may resume use when ready.
+
+{GAMEPLAY}
+
+[This time SHEVA grabs it.]
+
+SHEVA: Burn in hell, you son of a bitch!
+
+[The monster exposes its orange bulbs again.]
+
+SHEVA: That's it! That's its weak spot!
+
+[They continue to attack MKONO. The fuel runs empty again.]
+
+SHEVA: I'll refuel it! Hold tight!
+
+[She runs to the refuel station to refuel it. They keep up the attack. When
+the flamethrower refuels again they press on the attack, finally giving it its
+deathblow.]
+
+{CUTSCENE}
+
+[MKONO lets out a bloodcurdling shriek, then falls limp on the floor, melting
+away into an acrid black smoke.]
+
+====Chapter 5-3: Uroboros Research Facility====
+
+{CUTSCENE}
+
+[The door to the chamber slides open.]
+
+{GAMEPLAY}
+
+SHEVA: What's all this nonsense about evolution and being worthy? What does she
+mean?
+
+CHRIS: Something about a philosopher's stone and selecting DNA. It doesn't
+matter what she says; she's just a terrorist. End of story. We can't risk
+Uroboros getting out of here and infecting people. 
+
+SHEVA: Then let's go take care of business!
+
+[They head up to the control room where EXCELLA was before, but it is deserted.
+They make their way back to the catwalks, where there are quite a few guards
+waiting for them. To make things worse, a Reaper bursts out of its cocoon,
+ambushing them. They manage to take it down as well as the remaining assault
+rifle Majini, and they dispatch another Reaper. Just as they are about to go 
+through a door to a generator, another Reaper ambushes them. After killing it, 
+they pull the generator lever.]
+
+{CUTSCENE}
+
+[A control panel turns green.]
+
+{GAMEPLAY}
+
+[In a case ahead, an H&amp;K PSG-1 rifle can be found. They head to the panel,
+which operates a movable platform.]
+
+{CUTSCENE}
+
+[Some Majini show up to make trouble.]
+
+{GAMEPLAY}
+
+[The platform moves to their edge, but one person needs to stay behind to pull
+the lever to work it. CHRIS gets on first.]
+
+SHEVA: Here I go. Keep your eyes open.
+
+[CHRIS gets to the other side, taking down the Majini welcoming party that's 
+come to greet him while SHEVA gives covering fire. After they're all taken care
+of, CHRIS pulls the lever on the other side to bring the platform to SHEVA.
+SHEVA gets on as it gets to her.]
+
+SHEVA: OK. Get this thing moving!
+
+[CHRIS pulls the lever, and the platform moves to the other side.]
+
+{CUTSCENE}
+
+[Some Majini come out of a door, armed with stunsticks, assault rifles, and 
+rocket launchers.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA move down the catwalk, taking down the Majini in the way. As
+they enter the room where the Majini came out, some Majini with riot shields
+show up to complicate things. They too are dispatched. After, the two head down
+a rather dark hallway leading to the large chamber where they fought the U8.
+They pull two levers simultaneously to make the platform go up, and face some
+more Majini.]
+
+{CUTSCENE}
+
+[The Majini pull a lever to stop the platform.]
+
+{GAMEPLAY}
+
+[The platform slows down.]
+
+SHEVA: It stopped!
+
+CHRIS: No, something's stopping it.
+
+[CHRIS shoots the Majini operating the lever, and the platform speeds up 
+again.]
+
+SHEVA: It's going up again!
+
+{CUTSCENE}
+
+[More Majini come to slow the platform down.]
+
+{GAMEPLAY}
+
+[CHRIS shoots the operator.]
+
+SHEVA: Got him!
+
+[As they reach the top, some assault rifle Majini are blocking the way. They
+are quickly taken out. Exiting through a large steal door, they are now at
+another complex of ruins.]
+
+SHEVA: More ruins. You think Excella is here?
+
+CHRIS: If we wanna find out, we're gonna have to lower that bridge.
+
+[There's a lever ahead, but pulling it has no effect. The power is off. 
+Thankfully the generator is nearby.]
+
+{CUTSCENE}
+
+[As they pull the generator lever, the control panel turns green.]
+
+{GAMEPLAY}
+
+[SHEVA pulls the lever, which brings an elevator down. CHRIS rides the elevator
+up.]
+
+{CUTSCENE}
+
+[Some lickers are here to cause trouble, climbing around the chainlink fences.]
+
+{GAMEPLAY}
+
+[CHRIS holds his own against the Lickers, reaching a large crate blocking the
+way and pushing it off the edge. CHRIS reaches the room with the other lever,
+pulling it, as well as unlocking the door for SHEVA to come in.]
+
+{CUTSCENE} 
+
+[The bridge goes down.]
+
+{GAMEPLAY}
+
+[At this point there's a mass of lickers coming after them. After a long, tough
+battle, CHRIS and SHEVA manage to slay the beasts. Past the bridge is a stone 
+door, the door to the Monarch Room.]
+
+{CUTSCENE #40 -- Two on Two}
+
+[CHRIS and SHEVA enter, pistols raised.]
+
+SHEVA: Excella Gionne! Stop right there!
+
+EXCELLA (claps her hands in mock applause): Bravo!
+
+CHRIS: Damn it, where is Jill!?
+
+EXCELLA: Hmph! Jill? Maybe I'll tell you, maybe I won't.
+
+[Suddenly a large cloaked figure somersaults over. It's BIRD LADY, and she's 
+got a few moves of her own, kicking CHRIS and SHEVA. CHRIS manages to fire a
+shot at her, which removes her mask. At this de-masking BIRD LADY does a series
+of almost inhumanly fast back handflips, dodging CHRIS and SHEVA's gunfire and
+making sure her cloak is on tight.]
+
+CHRIS: Stop playing around, we want some answers!
+
+WESKER: You haven't changed.
+
+CHRIS: Wesker! You ARE alive!
+
+SHEVA: This is Wesker?
+
+WESKER: We last met at the...Spencer Estate, wasn't it? Well, isn't this one
+big family reunion? [strolls forward] I would expect you to be happier to see 
+us.
+
+CHRIS: Us...?
+
+WESKER: So slow to catch on.
+
+[He pulls back BIRD LADY's cloak to reveal...JILL VALENTINE. Her hair is blond
+now, and her skin is paler, but it is unmistakably JILL. Her blue eyes flash
+with a hostile look. CHRIS' eyes widen in amazement, and he lowers his pistol.]
+
+CHRIS: Jill...Jill! It's me, Chris!
+
+SHEVA: What? Are you sure that's her?
+
+WESKER: The one and only.
+
+[JILL suddenly whips off her cloak to reveal a tight blue jumpsuit. She 
+savagely attacks CHRIS and SHEVA, who are reluctant to hurt her.]
+
+WESKER: Now let's finish this once and for all. I think the odds are fair, two
+on two. Right, Jill?
+
+{GAMEPLAY}
+
+WESKER: Seven minutes. Seven minutes is all I can spare to play with you. 
+
+[The fight breaks out. WESKER as usual uses his super speed to dodge their
+gunfire, while JILL uses dual machine pistols and acrobatics to gain the upper
+hand.]
+
+WESKER: Poor performance indeed. 
+
+{CUTSCENE}
+
+WESKER: Your future hinges upon this fight.
+
+[He kicks CHRIS into a stone door, which crumbles under his impact.]
+
+{GAMEPLAY}
+
+CHRIS: We'll never win like this. Time to change tactics.
+
+SHEVA: We should hide!
+
+[And hide they do, running into the labyrinth WESKER opened up for them. Inside
+a sarcophagus which CHRIS and SHEVA open together is the Light Hawk magnum.]
+
+WESKER: There's no point in hiding. You can't hide forever!
+
+SHEVA: I'll take care of Jill! You take care of Wesker!
+
+WESKER: You're merely postponing the inevitable!
+
+SHEVA: You have to attack before he sees you!
+
+[CHRIS performs several hit and run attacks on WESKER, but he is quite 
+impervious to gunfire.]
+
+WESKER: Self-righteous fools!
+
+[Eventually the seven minutes are up.]
+
+{CUTSCENE #41 -- Old Friends, New Enemies}
+
+[CHRIS and SHEVA come out of the labyrinth. WESKER is on the balcony.]
+
+WESKER: I expected more of a challenge after all this time, Chris. How 
+disappointing.
+
+[WESKER's PDA rings, and he walks away.]
+
+WEKSER: Yes.
+
+CHRIS: Go!
+
+[CHRIS and SHEVA storm up the stairs and pointing their pistols at WESKER.]
+
+CHRIS: Wesker, stop!
+
+[WEKSER puts away his phone and smirks as JILL rounds the corner, beats up
+SHEVA, then grapples CHRIS to the ground, pinning him.]
+
+CHRIS: Jill, come on! It's me, Chris! Snap out of it!
+
+WESKER: Nice move, Chris. But now that your "partner" has arrived, I'll leave
+you two to catch up.
+
+[JILL twists, inflicting more pain on him.]
+
+CHRIS: Come on, Jill! Get yourself together! Wake up! Jill Valentine!
+
+[Suddenly a more human look seems to come across JILL's face.]
+
+JILL VALENTINE: Chr...Chris...
+
+[She forcefully lets go of CHRIS, as if though she were resisting her self.]
+
+CHRIS: Jill!
+
+WESKER: Remarkable! Still resisting at such an advanced stage.
+
+[He pulls out his PDA and hits a button, causing JILL to writhe and cry out in
+pain.]
+
+WESKER: Commendable, yet futile! No more time for games, Chris. I've got work
+to do. Have fun watching Jill suffer.
+
+CHRIS: Wait! What did you do to her!?
+
+[WESKER steps into an elevator, which slams shut in front of CHRIS' face. 
+Meanwhile, JILL's cries of agony are getting more intense until she rips her
+battle suit, revealing an odd red contraption on her chest, the machine that
+is usurping her mind.]
+
+SHEVA: What's that on her chest?
+
+CHRIS: We have to get it off her!
+
+[JILL suddenly stops shouting in pain; her mind is under control again.]
+
+{GAMEPLAY}
+
+SHEVA: If we can remove that device on her chest, she might return to normal!
+
+CHRIS: Alright...Then that's what we're gonna do!
+
+[He runs up to JILL, avoiding her gunfire.]
+
+CHRIS: Jill! What are you doing! Stop this! Jill! Answer me!
+
+[She starts to moan in pain again, and CHRIS takes this moment to grab her and
+restrain her. SHEVA shoots the contraption, then jumps up and straddles JILL's 
+head between her thighs, bringing her down to the ground.]
+
+SHEVA: Now! Hold her down!
+
+[CHRIS tries to pull off the contraption, but JILL's mind is usurped again and she tries to kick him off. CHRIS is forced to dodge away.]
+
+CHRIS: It's me, Chris! Don't you recognize me?
+
+[She starts to moan in pain again, and CHRIS takes this moment to grab her and
+restrain her. SHEVA shoots the contraption, then jumps up and straddles JILL's 
+head between her thighs, bringing her down to the ground. CHRIS tries to pull 
+off the contraption, but JILL's mind is usurped again and she slides away from
+his grasp, trying to counterattack. CHRIS is forced to dodge away.]
+
+CHRIS: Come on! Snap out of it! Don't do this, Jill! I don't want to hurt you!
+Jill! What are you doing!?
+
+SHEVA: We have to get that device off her chest!
+
+[As SHEVA restrains JILL, CHRIS tries to tear off the thing, but she manages
+to kick them off before they do.]
+
+CHRIS: Stop this! Jill! Answer me!
+
+[CHRIS grabs her, then flings her onto the ground and proceed to try to tear
+the contraption off. JILL's mind is usurped again and she slides away from
+his grasp, trying to counterattack. CHRIS is forced to dodge away.]
+
+CHRIS: It's me, Chris! Don't you recognize me?
+
+[As SHEVA restrains JILL, CHRIS tries to tear off the thing, but she manages
+to kick them off before they do. The contraption is now sparking heavily.]
+
+CHRIS: Come on! Snap out of it!
+
+[As SHEVA restrains JILL, CHRIS finally manages to tear off the thing, throwing
+it aside.]
+
+{CUTSCENE #42 -- Favor for a Friend}
+
+[JILL moans in pain, then collapses to the ground.]
+
+CHRIS: Jill!
+
+[He gets down, cradling Jill.]
+
+CHRIS: Jill! Are you all right?
+
+[She regains her senses.]
+
+JILL: Chris...I'm so sorry...
+
+CHRIS: It's okay.
+
+JILL: You're Sheva, right?
+
+SHEVA: Yes.
+
+JILL: I couldn't control my actions, oh, but God I was still aware. Forgive me.
+
+SHEVA: It's all right.
+
+JILL: Thank you.
+
+[CHRIS helps JILL up.]
+
+JILL: Listen. I'm gonna be alright. You two need to stop him.
+
+CHRIS: We can't just leave you here!
+
+JILL: You have to! This is your only chance! If Wesker succeeds, Uroboros will
+be spread across the globe! Millions will die!
+
+CHRIS: Well yeah, but--
+
+JILL: I'm all right! You need to stop him! 
+
+[CHRIS looks hesitant. JILL grabs him in desperation.]
+
+JILL: Chris! You're the only one who can. Before it's too late. Don't you trust
+your partner?
+
+CHRIS: All right.
+
+[CHRIS turns to leave.]
+
+JILL: Take care of him.
+
+[SHEVA nods, then goes to join CHRIS in the elevator. The door closes.]
+
+JILL: You're our only hope to survive this.
+
+{CUTSCENE #43 -- The Tanker}
+
+[CHRIS and SHEVA are heading outside.]
+
+SHEVA: Chris...
+
+CHRIS: I'm all right.
+
+[From their position they can see an enormous ship.]
+
+SHEVA: Over there!
+
+[Surely enough, WESKER and EXCELLA are walking down the docks to board the 
+ship.]
+
+CHRIS: It's time to put an end to this. Let's go!
+
+====Chapter 6-1: Ship Deck====
+
+{CUTSCENE}
+
+[The ship has set sail now.]
+
+{GAMEPLAY}
+
+SHEVA: This ship is huge! Do you think they're planning to use it to spread
+Uroboros?
+
+CHRIS: No, using a ship like this would give away their position too soon. They
+must have another plan.
+
+[They make their way through the deck, taking down stunrod Majini along the 
+way.]
+
+{CUTSCENE}
+
+[A door bursts open and some Adjule run out.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA eliminate the Adjule and guards and continue through a maze of
+shipping containers. Together they push a crate in the way, then SHEVA jumps
+down.]
+
+{CUTSCENE}
+
+[A Majini pulls a lever, and suddenly a cage falls over SHEVA, trapping her
+inside.]
+
+{GAMEPLAY}
+
+[A whole bunch of Majini show up. SHEVA helps provide assisting fire inside her
+cage. One of the Majini transforms into another type of Plaga called a Duvalia.
+Its head is indescribably ugly. From its body CHRIS obtains the Crane Keycard.]
+
+SHEVA: We need to move this container. There should be a crane or something
+nearby.
+
+[CHRIS shoots a control panel to open a way, using the Crane Keycard to unlock
+the door to the crane. He gets to the top and pulls the lever.]
+
+{CUTSCENE}
+
+[The crane comes along and picks up the container, freeing SHEVA.]
+
+SHEVA: Thanks!
+
+{GAMEPLAY}
+
+SHEVA: I'm not going on without you. Come on!
+
+[CHRIS makes his way down to SHEVA's position. Some more Majini block the way
+forward, but they are easily dispatched. There are a few control panels that
+they shoot to operate some movable platforms. Some Adjule give chase, but they
+are killed. CHRIS and SHEVA finally reach the door to the ship's interior.]
+
+SHEVA: This tanker is so big. It won't be easy finding Wesker.
+
+CHRIS: That won't be a problem. Once he knows we're here, he'll find us.
+
+SHEVA: And how do you know that?
+
+CHRIS: Let's just say we have a history together, and he's not the type to let
+grudges go.
+
+SHEVA: Hmm...you must have done something to piss him off.
+
+CHRIS: It goes a bit beyond just "pissing him off."
+
+SHEVA: So...are you going to tell me what happened?
+
+CHRIS: Maybe...but not until after we've put an end to all this. Deal?
+
+SHEVA: Okay, but I'm holding you to that.
+
+[They run down a flight of stairs. At the bottom a Jail Breaker shotgun can be
+found.]
+
+{CUTSCENE #44 -- Medicine}
+
+[CHRIS and SHEVA run past an aisle of tanks full of Progenitor Flowers to 
+confront EXCELLA. She is looking at a briefcase of some sort.]
+
+CHRIS: Freeze!
+
+[EXCELLA shuts her briefcase.]
+
+SHEVA: What's going on here?
+
+EXCELLA: Nothing that concerns either of you.
+
+SHEVA: We're not giving you an option, now spit it out!
+
+CHRIS: tell us what we want to know and you won't get hurt. Where's Wesker!
+
+EXCELLA: If you can behave yourselves, maybe I'll tell you.
+
+[She grabs two briefcases and runs. CHRIS and SHEVA open fire, hitting one of
+the cases and causing her to drop it. EXCELLA manages to get away.]
+
+CHRIS: Damn it!
+
+SHEVA: She's tough. I'll give her that much.
+
+[SHEVA looks down at the fallen briefcase. The syringes inside have scattered
+all over the floor.]
+
+SHEVA: What's this?
+
+[She picks one up.]
+
+SHEVA: Chris, is this...?
+
+CHRIS: Whatever it is, Excella seemed protective of it. 
+
+{GAMEPLAY}
+
+[The large chamber ahead is like a warehouse of some sort.]
+
+{CUTSCENE}
+
+[As CHRIS and SHEVA pass along, an alarm suddenly sounds, and a ton of Majini
+come out of the hatches.]
+
+{GAMEPLAY}
+
+[A fierce firefight breaks out. CHRIS and SHEVA make their way down to the 
+lower level.]
+
+{CUTSCENE}
+
+[Even more Majini come to make trouble.]
+
+{GAMEPLAY}
+
+[They jump down a hatch, taking out Majini that confront them in the hallway.
+CHRIS and SHEVA finally make it to the next chamber.]
+
+{CUTSCENE}
+
+[At this point a Majini with a gatling gun comes in, blasting away in an
+aggressive show of strength.]
+
+{GAMEPLAY}
+
+SHEVA: Their weapons keep getting bigger! Take cover!
+
+[They hide behind steel boxes as he blasts away, then open fire at him when he
+stops to rev up again. This Majini is tough; the steel backpack he wears 
+protects his back, and he is capable of surviving explosions and using his gun
+as a melee weapon. CHRIS and SHEVA take advantage of the explosive cylinders
+lying around to take him down. After killing him they take the Tanker Keycard A
+from his body. Tanker Keycard B is in a safe above. They use the keycards 
+simultaneously to open a door.]
+
+{CUTSCENE}
+
+[There are some rocket launcher Majini waiting for them.]
+
+SHEVA: Rocket launcher!
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA take out the rocket launcher Majini in this room, as well as
+the few Bui Kichwa skittering around, then get into the elevator.]
+
+{CUTSCENE #45 -- Dreams of a Madman}
+
+[The scene shifts to WESKER, who is in a control room of some sort.]
+
+WESKER: So you've made it this far...
+
+[He is watching CHRIS and SHEVA in the elevator through some security cameras.]
+
+WESKER: Too bad you won't make it much further.
+
+[He enters into a flashback set in the Spencer Estate. SPENCER is sitting in
+a wheechair as WESKER paces about.]
+
+SPENCER: ...a new superior breed of humans given birth by the Progenitor Virus.
+The Wesker children were entrusted with endless potential. Of them, only one
+survived. You.
+
+WESKER: Are you saying I was manufactured?
+
+SPENCER: I was to become a god...(coughs)...creating a new world with an
+advanced race of human beings. However, all was lost with Raccoon City. Despite
+that setback, your creation still holds great significance. (coughs)
+
+[SPENCER slowly gets up on his feet, and WESKER starts to walk over to him.]
+
+SPENCER: Now my candle burns dimly. Ironic, isn't it? For one who has the right
+to be a god! To face his own mortality...
+
+[He turns around to look WESKER straight in the eye.]
+
+WESKER: The right to be a god...
+
+[WESKER impales SPENCER with his arm.]
+
+WESKER (speaking straight into SPENCER'S ear): That right is now mine.
+
+[He releases his arm, and SPENCER falls to the floor, dead.]
+
+WESKER: The right to be a god? You? Arrogant even until the end. Only one truly
+capable of becoming a god deserves that right.
+
+[The scene shifts back to the present.]
+
+WESKER: The right...With Uroboros, I have that right.
+
+====Chapter 6-2: Main Deck====
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA are now outside. Ahead is a gigantic pile of bodies.]
+
+{CUTSCENE #46 -- A New Nightmare Begins}
+
+[CHRIS and SHEVA approach the clearing with the pile of corpses.]
+
+CHRIS: What the hell happened here?
+
+[Suddenly someone staggers over. It's EXCELLA. She is hunched over in pain.]
+
+CHRIS: Excella...what's going on!?
+
+EXCELLA: Why...when I've done so much...all for you...
+
+WESKER (through speakers): Chris! How nice of you to join us. 
+
+CHRIS: Wesker!
+
+WESKER: Don't worry, your mission is at its end. Uroboros is on the eve of its 
+appearance. Six billion cries of agony will birth a new balance!
+
+CHRIS: Sorry Wesker, but not on my watch!
+
+EXCELLA: Albert...you said we'd change this world together...why!?
+
+SHEVA: I thought they were partners.
+
+CHRIS: Wesker doesn't give a damn about anybody but himself.
+
+WESKER: Soon even you will understand, Chris. One glimpse of my new world and 
+it will all make perfect sense.
+
+CHRIS: Show yourself!
+
+WESKER: Unfortunately, it's too late for you. You will not live to see the 
+dawn! Sorry Excella, but it appears Uroboros has rejected you.
+
+[EXCELLA is now on her knees, shouting in pain.]
+
+WESKER: Though you have been an excellent asset. I have one last task for you.
+
+EXCELLA: Albert!
+
+[Suddenly her eyes widen and a mass of tentacles explode out of her mouth.]
+
+SHEVA: What the hell!?
+
+WESKER: Farewell, old friend.
+
+[The tentacles move towards the pile of bodies, engulfing them. Soon EXCELLA 
+has turned into a gigantic monster, AHERI, similar to the first boss and MKONO,
+but even bigger and stronger than either of them. A tentacle suddenly lashes
+down at CHRIS and SHEVA, who manage to jump out of the way. They get up and
+start to run for their lives. As they run down the catwalk, they dodge from
+AHERI's tentacles. They get off the catwalk and assist each other in climbing
+over a shipping container and up a flight of stairs to a higher deck.
+
+SHEVA: This way!
+
+[They manage to get to a door and inside again.]
+
+{GAMEPLAY}
+
+CHRIS: Persistent son of bitch.
+
+SHEVA: So now what? Do you think our weapons can hurt that thing? 
+
+CHRIS: I dunno, but we gotta get the hell outta here before it destroys this
+place.
+
+[Suddenly AHERI's tentacles punch through the ceiling, an attack that the two
+narrowly dodge.]
+
+SHEVA: It's tearing through the ship! We can't stay here!
+
+[They pass through a few cabins to avoid the tentacless blocking the way. AHERI 
+can be seen through a window.]
+
+SHEVA: My God...Look how big it's become!
+
+[They pass through a hallway with numerous Majini corpses lying around. Some of
+them, however, aren't dead yet, and they jump up and attack. CHRIS and SHEVA
+eliminate them. One of them mutates into a Duvalia; from this Majini they get
+the Bridge Keycard. They go through a slide door into a room in which SPENCER's
+notebook can be found, listing Umbrella members with access to company secrets.
+They use the keycard to enter the bridge, which is deserted. On a bulletin
+board across the bridge is a document describing the Shango satellite laser.]
+
+CHRIS: A satellite laser...we just might have a chance. The targeting device
+is on the roof! Come on! There's no time to lose!
+
+[They head outside and make their way to the roof.]
+
+{CUTSCENE}
+
+[Suddenly AHERI appears. It has grown to a size where nothing less than a 
+satellite laser will take it down.]
+
+{GAMEPLAY}
+
+SHEVA: That thing is huge. Do you really think we can kill it?
+
+[CHRIS uses the Bridge Keycard to open a panel and reveal the Laser Targeting
+Device.]
+
+SHEVA: It's all on you, Chris! I've got your back!
+
+[AHERI reveals a large central bulb, which CHRIS targets.]
+
+SHEVA: There is is! Fire!
+
+[CHRIS locks on, and a huge green laser blasts AHERI.]
+
+SHEVA: That's it hit, hit it again! Watch out! It's firing off some sort of 
+projectiles!
+
+[Sure enough, there are some small masses of Uroboros crawling around the deck,
+but they are easily taken out with small arms fire.]
+
+{CUTSCENE}
+
+[AHERI's bulb retracts, and four large tentacles tipped with orange bulbs 
+rise up.]
+
+{GAMEPLAY}
+
+SHEVA: Chris! Above you!
+
+[The tentacles attempt to lash out at CHRIS, but he manages to duck. As the
+fight goes on CHRIS targets each bulb with the LTD, and the laser blasts them.]
+
+{CUTSCENE}
+
+[AHERI reveals its main bulb again.]
+
+{GAMEPLAY}
+
+[CHRIS aims at AHERI with the LTD, and this time the laser hit is fatal.]
+
+{CUTSCENE}
+
+[With a deafening scream, AHERI's main bulb explodes, and it collapses, finally
+vanquished.]
+
+====Chapter 6-3: Bridge Deck====
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA are back on the bridge.]
+
+SHEVA: So that's Uroboros...I fear for the world if that ever gets out.
+
+CHRIS: Goddammit Wesker! He's actually serious about destroying the entire
+planet!
+
+{CUTSCENE #47: A Message from Jill}
+
+[CHRIS and SHEVA go down some stairs, passing by some computer screens.]
+
+CHRIS: Wait.
+
+[He head over to the computer, looking at the screen. SHEVA joins him.]
+
+SHEVA: An assault bomber! Then Jill and Wesker was planning to spread Uroboros
+throughout the world...
+
+CHRIS: He's planning to use this to spread it. 
+
+[The screen changes security cameras.]
+
+CHRIS: Wesker! There he is. Come on, let's go!
+
+[Somebody comes through to his PDA. It's JILL.]
+
+CHRIS: Jill! Are you alright?
+
+JILL: I'm fine. Don't worry about me. Just listen carefully, there's something
+I need to tell you. Wesker's superhuman strength, it comes from a virus. But
+the virus is unstable. In order to maintain a balance he must inject himself
+regularly with a serum.
+
+SHEVA: So if we cut the supply of serum he loses his strength.
+
+JILL: Affirmative. But he just took a dose, so it's gonna be a while before he
+needs another one. 
+
+CHRIS: Damn.
+
+JILL: Listen, Excella said that the amount administered has to be precise. So
+if he injects too much it should act like a poison. I think she used a serum
+labeled PG67A/W.
+
+SHEVA: PG67A/W?
+
+[SHEVA looks at the syringe they took from EXCELLA.]
+
+JILL: I'm gonna try to find a way to escape. You need to find that serum.
+Excella always kept it with her in an attache ca-- (static)
+
+CHRIS: Jill! Come in! Jill!
+
+[The screen fades away back to the PDA main menu.]
+
+CHRIS: Shit!
+
+SHEVA: Chris...this is it.
+
+[A close-up on the syringe shows that it is indeed PG67A/W.]
+
+CHRIS: Let's give it a shot. 
+
+{GAMEPLAY}
+
+SHEVA: A bomber equipped with missiles? He can't fly around in that without
+getting shot down...oh God!
+
+CHRIS: Exactly. The plane can't get shot down. If it does, it will initiate a
+biohazard.
+
+SHEVA: It's just like Jill said, he's planning to spread this virus worldwide.
+
+CHRIS: Looks that way. Things are worse than I thought. We have to stop him 
+here and now.
+
+[CHRIS and SHEVA get into an elevator.]
+
+{CUTSCENE}
+
+EMERGENCY VOICE: Warning! Fire detected in the engine room! Warning! Sealing 
+off area with primary bulkhead! Evacuate the area immediately!
+
+{GAMEPLAY}
+
+[Fires periodically burn across the catwalks. CHRIS and SHEVA make their way
+past the searing heat to a lever, which they pull.]
+
+{CUTSCENE}
+
+EMERGENCY VOICE: Opening secondary bulkhead. Please maintain a safe distance
+from the bulkhead.
+
+{GAMEPLAY}
+
+[Some Majini with stun rods come along to make things difficult as they wait
+for the bulkhead to open completely.]
+
+SHEVA: Come on! Open, damn you!
+
+[Assault rifle Majini also come to join the fight from the other side of the 
+bulkhead, as well as a few rocket launcher Majini. They neutralize them, then 
+pull the levers to the primary bulkhead.]
+
+{CUTSCENE}
+
+EMERGENCY VOICE: Opening primary bulkhead. Please maintain a safe distance from
+the bulkhead.
+
+{GAMEPLAY}
+
+[At this point two Reapers come to join the fight. CHRIS and SHEVA defeat them
+as the bulkhead opens.]
+
+{CUTSCENE}
+
+[A platform slides up and two Gatling Gun Majini appear.]
+
+SHEVA: We'll never win in a fair fight! We need to fall back and come up with a
+plan!
+
+{GAMEPLAY}
+
+[The two run for a gatling gun turret, which they use two take out the group of
+Majini that have arrived. From the gatling gunners bodies they pick up Hangar
+Keycards A and B.]
+
+{CUTSCENE}
+
+[The two use the keycards at the same time to open a door.]
+
+{GAMEPLAY}
+
+SHEVA: Something doesn't feel right...I can't explain it.
+
+CHRIS: Yeah, I hear you. Don't let your guard down for a second.
+
+{CUTSCENE #48 -- Rematch}
+
+[They move through a sliding door to find WESKER on a balcony, looking at the
+bomber. CHRIS and SHEVA raise their weapons.]
+
+CHRIS: Your plans are finished, Wesker!
+
+SHEVA: There's no way out this time!
+
+WESKER: Don't you two ever tire of failing in your mission? (takes off 
+sunglasses) You've really become quite an inconvenience for me.
+
+[He tosses the glasses all of a sudden, and CHRIS instinctively catches it, 
+letting down his guard. WESKER takes advantage of this and defeats them in close
+combat, getting his glasses back in the process. CHRIS fires at WESKER and then
+tries to tackle him, but WESKER dodges the bullets and absorbs the attack,
+giving back a few hits. As CHRIS tries to shoot him again, WESKER back-
+handsprings to SHEVA, holding her in front of him as a shield.]
+
+CHRIS: Why are you doing this? What do you accomplish by unleashing Uroboros?
+
+WESKER: Every day humans come one step closer to self destruction. I'm not 
+destroying the world, I'm saving it!
+
+[SHEVA manages to escape WESKER's grasp, and they engage in close combat once 
+more. WESKER blocks their attacks, then grapples them and tosses them over the
+balcony. CHRIS sees the serum land right next to him.]
+
+SHEVA: This guy's lost it!
+
+CHRIS (picking up the serum): This may be our only chance!
+
+[WESKER leaps over the balcony.]
+
+SHEVA: Do it!
+
+[As WESKER lands, the roof starts to open up, getting ready for takeoff.
+
+WESKER: Things are really getting interesting now, eh Chris? Do you actually
+you can defeat me?
+
+CHRIS: Either way, I'm not gonna stop until I'm dead!
+
+WESKER (laughs): Well then, I'll just have to kill you quickly.
+
+{GAMEPLAY}
+
+WESKER: I'll see you dead!
+
+SHEVA: If we take advantage of the dark, we might actually hit him.
+
+[CHRIS pulls several levers around the place to close the roof.]
+
+WESKER: There's no point in hiding. Is that all you have?
+
+SHEVA: Every time we shoot, he dodges! Fighting in the dark might be our only
+chance!
+
+WESKER: Ignorant cretins! Has it never occured to you that this planet is
+overpopulated? Only a handful of humans truly matter. Everyone else is just so
+much chaff. So now I have to separate this chaff from the wheat. And with
+Uroboros I can finally accomplish this!
+
+[CHRIS grabs an RPG-7 in a glass case in the corner.]
+
+SHEVA: I'll distract him!
+
+[SHEVA acts as a distraction to WESKER while CHRIS readies the RPG.]
+
+SHEVA: Now's our chance!
+
+[CHRIS fires the rocket.]
+
+{CUTSCENE}
+
+[WESKER catches the rocket, but its rocket propulsion is still going and WESKER
+struggles to keep it under control.]
+
+{GAMEPLAY}
+
+SHEVA: I've got you now!
+
+[SHEVA shoots the rocket, detonating it.]
+
+{CUTSCENE}
+
+[SHEVA grabs him from behind, restraining him.]
+
+SHEVA: Do it! Inject him!
+
+{GAMEPLAY}
+
+[WESKER manages to break out of her grasp though. They scramble up a ladder to
+get rockets to reload.]
+
+WESKER: You can't hide forever.
+
+{CUTSCENE}
+
+[CHRIS holds the RPG while SHEVA inserts the rocket.]
+
+{GAMEPLAY}
+
+[SHEVA acts as a distraction again while CHRIS readies the rocket.]
+
+WESKER: Ah, there you are! You're merely postponing the inevitable. Only those
+with superior DNA will be chosen by Uroboros. Only those fit for survival will
+be allowed to carry their genes into a new age!
+
+CHRIS: And let me guess, you're the one that's going to rule this "new age,"
+right?
+
+[CHRIS fires the rocket at WESKER.]
+
+{CUTSCENE}
+
+[WESKER catches the rocket again, struggling against its rocket propulsion.]
+
+{GAMEPLAY}
+
+[They shoot the rocket, stunning him.]
+
+{CUTSCENE}
+
+[CHRIS grabs WESKER.]
+
+CHRIS: Do it now! Give him the shot!
+
+{GAMEPLAY}
+
+[SHEVA injects it into Wesker.]
+
+{CUTSCENE #49 -- Wesker's Vulnerability}
+
+[WESKER staggers back and crumples in pain.]
+
+SHEVA: Did it work?
+
+CHRIS: I think so.
+
+[WESKER struggles to his feet, but his vision is hazy. Grasping his head, he
+cries out in pain, but manages to get a hold of himself, taking off his glasses
+and throwing them away.]
+
+WESKER: This isn't over, Chris!
+
+[He runs away, making enormous leaps to his bomber.]
+
+CHRIS: Sheva, he's getting away, hurry!
+
+[They run towards, the bomber, which is starting to go down the runway. CHRIS
+makes a final spring and grabs on. SHEVA is still running behind.]
+
+CHRIS: Sheva! Come on! Come on, grab on!
+
+[SHEVA puts in a final burst of speed, managing to grab onto CHRIS' hand just
+as the bomber speeds off the runway.] 
+
+{CUTSCENE #50 -- Sky-High Skirmish}
+
+[CHRIS and SHEVA are inside the bomber.]
+
+WESKER: It seems I may have underestimated you, Chris.
+
+CHRIS: Save it Wesker. There's no one left to help you now.
+
+WESKER: I don't need anyone else. (gets up) I have Uroboros. In less than five
+minutes we'll reach the optimal altitude for missile deployment. Uroboros will
+be released into the atmosphere ensuring complete global saturation.
+
+[He suddenly charges at CHRIS, who sidesteps the attack. WESKER then throws
+CHRIS across the place while suppressively firing at SHEVA to keep her pinned
+behind a pillar.]
+
+WESKER: Your feeble attempts only delay the inevitable. The entire world will
+be infected.
+
+[CHRIS opens fire at WESKER, but WESKER dodges the shots, still firing at 
+SHEVA. Eventually he makes it up to CHRIS, pointing his pistol at his head.]
+
+WESKER: A new genesis is at hand and I will be the creator.
+
+[SHEVA charges at WESKER with her machete, but WESKER dodges the attack, 
+backflipping and hanging upside down on the ceiling. CHRIS fires at him but
+is attacked in a furious combo. SHEVA has turned around now, and stabs WESKER
+in the arm, but it has little effect on him. He grabs her and starts to choke
+her. SHEVA manages to break free, clamping her legs around his head and 
+bringing him down to the ground.]
+
+CHRIS: I've had enough of your bullshit!
+
+[He injects WESKER with the serum.]
+
+CHRIS: You're just another one of Umbrella's leftovers.
+
+SHEVA: You know what we have to do.
+
+CHRIS: Alright, I'll go for the override lever. Cover me!
+
+[CHRIS runs for the lever as WESKER charges at him. SHEVA opens fire at him,
+which WESKER dodges, but it is too late. CHRIS pulls the lever, and the back
+door opens.]
+
+WESKER: You'll pay for that!
+
+CHRIS: Hang on!
+
+[As the door opens a powerful gust blows, knocking WESKER off his feet. CHRIS
+and SHEVA are holding on. Before WESKER can tumble out of the plane, he grabs
+onto SHEVA's legs, trying to pull her down. At this point, SHEVA looks up with
+a look of sacrifice in her eyes. CHRIS has a flashback of JILL at this moment,
+and SHEVA lets go.]
+
+CHRIS: No!!
+
+[He lets go, grabbing onto SHEVA's hand and the pillar. The bomber is plunging
+straight towards a volcano.]
+
+WESKER: I'm taking the two of you with me.
+
+SHEVA: Like hell you will.
+
+[With her free hand she draws her pistol and shoots him, causing him to let go
+and fall out of the plane. The plane makes a crash-landing into the volcano.
+Screen fades to black. When it returns, we find that the plane is on a fragile
+sheet of rock.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA get out, taking a breather.]
+
+{CUTSCENE #51 -- The Final Curtain}
+
+[CHRIS and SHEVA walk forward with relief. In the smoke of the plane crash they
+see a figure emerge...a shirtless WESKER.]
+
+WESKER: I should have killed you years ago...Chris.
+
+CHRIS: Your mistake. It's over, Wesker!
+
+WESKER: Over? (laughs) I'm just getting started.
+
+[He punches into a container with Uroboros in it, and all of a sudden Uroboros
+tentacles come out of his body. One of his arms turns into a mass of tentacles 
+with several metal pieces from the plane embedded in it like claws. Overall, 
+though, WESKER still remains in control of his mutation and his intellect in 
+comparison to previous Uroboros victims.]
+
+WESKER: Time to die, Chris.
+
+[He leaps down onto the rock, approaching the two.]
+
+{GAMEPLAY}
+
+WESKER: Why can't you understand, Chris?
+
+SHEVA: Fall back!
+
+{CUTSCENE}
+
+[As CHRIS crosses a narrow rock bridge, it collapses under him, so that he is
+on the low ground, and WESKER and SHEVA on the high ground.]
+
+WESKER: Do you really believe the world is worth saving?
+
+SHEVA (through radio): Chris! Get to high ground!
+
+{GAMEPLAY}
+
+WESKER: Natural selection leaves the survivors stronger and better. Humans have
+escaped this winnowing for far too long.
+
+[WESKER follows in pursuit of CHRIS, thrashing his tentacle out at him.]
+
+SHEVA: I've got him, CHRIS!
+
+[SHEVA gives CHRIS covering fire against WESKER.]
+
+{CUTSCENE}
+
+[WESKER staggers momentarily, then his other arm starts to mutate. He makes an 
+enormous leap upwards onto high ground, this time going for SHEVA.]
+
+WESKER: Damn you!
+
+[This time CHRIS must offer covering fire for her.]
+
+WESKER: War and pestilence wherever you go. Everywhere, nothing but loathsome
+humans.
+
+[SHEVA runs across a rather fragile land bridge, which breaks under her. She
+manages to grab on to the edge.]
+
+CHRIS: Just...hold on...Sheva!
+
+[SHEVA manages to get up, but there's a gap in the way. On CHRIS's side is a
+massive boulder, which both of them realize is the stepping stone they need.
+CHRIS runs over to the boulder, pushing with all his might and giving it a few
+punches to get it rolling. It rolls into the lava, creating a stepping stone.]
+
+{CUTSCENE}
+
+[SHEVA jumps across, and almost falls into the lava, but CHRIS manages to catch
+her.]
+
+WESKER: The human race requires judgment!
+
+[He leaps over to CHRIS and SHEVA's position.
+
+{GAMEPLAY}
+
+CHRIS: And you're going to judge us? Do you get all your ideas from comic book
+villains?
+
+[CHRIS and SHEVA retreat to higher ground.]
+
+{CUTSCENE}
+
+[WESKER makes an enormous leap onto the very center of the rocky platform.]
+
+WESKER: Chriiis!
+
+{GAMEPLAY}
+
+[This is the final showdown. WESKER makes enormous swipes with his tentacles,
+which CHRIS and SHEVA dodge, running around and shooting his weak point on his
+back. WESKER also flails his tentacles in a circular motion, like a tornado of
+tentacles, but misses.]
+
+{CUTSCENE}
+
+[The tentacles around his glowing weak point retract, exposing it.]
+
+{GAMEPLAY}
+
+[CHRIS and SHEVA open fire onto this exposed spot.]
+
+{CUTSCENE}
+
+[The tentacles retract back over the spot, and the weak point shifts to the
+back again.]
+
+{GAMEPLAY}
+
+[They continue to avoid his attacks. He does one more whirlwind attack.]
+
+{CUTSCENE}
+
+[CHRIS jumps onto his back, restraining him.]
+
+CHRIS: Now, Sheva, shoot him!
+
+SHEVA: I can't without hitting you!
+
+[CHRIS starts to punch the weak spot, pulling back the tentacles.]
+
+CHRIS: Then shoot through me!
+
+[SHEVA unsheathes her machete, slashing and stabbing it as hard as she can. She
+gives him one final stab, and WESKER throws CHRIS off, his weak spot bleeding.
+CHRIS gets up quickly, taking out his machete, and jumps on WESKER, stabbing
+his weak spot ferociously. Blood or whatever fluid is in the orange bulb spews
+out like a fountain.] 
+
+{CUTSCENE #52 -- The Fall of Wesker}
+
+[WESKER staggers backwards, growling in pain, when all of a sudden the rock 
+breaks underneath his feet and he tumbles into the lava. As CHRIS and SHEVA 
+struggle to keep balance, a helicopter flies overhead, piloted by JOSH. In the 
+hold is JILL.]
+
+JILL: Grab on!
+
+[She throws down a ladder. CHRIS gets SHEVA on the ladder first, then barely
+manages to grab on just as the last bit of rock sinks into lava. The two get
+onto the helicopter.]
+
+WESKER: CHRIS!!!
+
+[He shoots an Uroboros tentacle up, snagging onto the helicopter's landing skid
+and pulling in an attempt to bring it down.]
+
+CHRIS: Hang on!
+
+JILL: Chris, Sheva, use those!
+
+[She points to two RPG-7s mounted on the wall. SHEVA picks them up, handing one
+to CHRIS.]
+
+CHRIS: Ready partner?
+
+SHEVA: Locked and loaded.
+
+CHRIS: Suck on this, Wesker.
+
+SHEVA: Your time's up, you son of a bitch!
+
+[They fire the rockets, and we see an obligatory slow-motion shot of the 
+rockets as they destroy WESKER once and for all.]
+
+SHEVA: That was for our fallen brothers.
+
+[The three look at each other in relief as the helicopter flies away from the
+volcano. 
+
+{CUTSCENE #53 -- Homeward Bound!}
+
+[The helicopter is flying high, away from the volcano. CHRIS, SHEVA, and JILL 
+look out the windows, then look at each other.]
+
+CHRIS: It's over.
+
+SHEVA: Yes.
+
+JILL: Finally.
+
+[JOSH glances behind from the pilot's seat, a smile on his face.]
+
+CHRIS (voiceover): More and more I find myself wondering if it's all worth 
+fighting for. For a future without fear...
+
+[He looks at SHEVA and JILL again.]
+
+CHRIS: Yeah, it's worth it.
+
+[The helicopter rides into the sunrise of a new dawn.]
+
+[FIN.]
+
+---------------
+
